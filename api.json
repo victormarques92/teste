@@ -1,0 +1,197 @@
+[{
+    "guid": "s7r1ngC0m256C@r4c7er3s0uM41s",
+    
+    "global": {
+        "number": 130,
+        "printFile": "",
+        "client": "SIDERURGICA NORTE BRASIL S A EM RECUPERACAO JUDICIAL",
+        "alias": "SINOBRAS",
+        "cnpj": "07.933.914/0001-54",
+        "cnpjExternal": "#cnpj-external",
+        "cod": "I-09.09.00 IND DE LAMINADOS DE ACO",
+        "type": "ltda",
+        "address": {
+            "route": "Rod PA 150",
+            "number": "S/N KM 425",
+            "neighborhood": "Indust",
+            "city": "Maraba",
+            "state": "PA",
+            "postalCode": "68501-535",
+            "external": "#external-address"
+        },
+        "branchOfficce": {
+            "name": "Matriz",
+            "external": "#external-branch-office"
+        },
+        "update": "Thu Jan 16 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+        "externalMethodology": "#externalMethodology",
+        "socialMedia": [
+            {
+                "name": "facebook",
+                "link": "https://www.facebook.com/"
+            },
+            {
+                "name": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/"
+            },
+            {
+                "name": "email",
+                "link": "#email"
+            }
+        ],
+        "evidence": [
+            {
+                "name": "RFB CNPJREVA",
+                "link": "https://banners-victormarques.000webhostapp.com/pdf/RFB%20CNPJREVA.pdf"
+            }
+        ]
+    },
+
+    "report": {
+        "cod": "EYT4-0AF5-I7U8-FA20",
+        "date": "Sun Feb 03 2020 21:00:00 GMT-0300 (Horário Padrão de Brasília)",
+        "version": "0001",
+        "limit": 25000000,
+        "status": {
+            "type": "danger",
+            "author": "Luis Sena",
+            "date": "Mon Feb 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+        },
+        "annotations": "Lorem ipsum dolor",
+        "historic": [
+            {
+                "type": "danger",
+                "date": "Mon Dec 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "limit": "800.000"
+            }
+        ],
+        "creditAnalysis": "Lorem ipsum dolor",
+        "seem": "",
+        "ccbLink": "",
+        "ccbPdf": ""
+    },
+
+    "dashboard": {
+        "trend": "danger", 
+        "score": 2.3,
+        "eh": 4,
+        "exp": 742,
+        "spc": "B+",
+        "restrictionsQtd": 16,
+        "restrictionsValue": 0.3,
+        "restrictionsFat": 0.6,
+        "ratingNugrau": "Lorem ipsum dolor",
+        "segmentSymbol": "",
+        "revenues": {
+            "value": 45,
+            "lastYear": "+17",
+            "chart": {
+                "label": ["2017", "2018", "2019"],
+                "dataset": [
+					{
+						"color": "#4bc0c0",
+						"data": [678.000,834.000,1100.000]
+					}
+                ]
+            }
+        },
+        "situation": {
+            "status": "ativa",
+            "statusExternal": "#status-external",
+            "state": "Recup. Judicial",
+            "date": "Fri Jun 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+        },
+        "qsa": {
+            "shareCapital": 387896587,
+            "patrimony": 1242000,
+            "alteration": "Fri Jun 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "chart": {
+                "label": [
+                    "José Vilmar Ferreira",
+                    "Rose Marie Matos Ferreira",
+                    "Rose Aline Matos Ferreira de Freitas Guimarães",
+                    "Francisco Ian de Vasconcelos Correa"
+                ],
+                "dataset": [25, 25, 25, 25],
+                "color": ["#04a9f5", "#9AA3D7", "#30E4C6", "#FAB"]
+            }
+        },
+        "restrictions": [
+            {
+                "corporate": "Serasa",
+                "logo": "https://logodownload.org/wp-content/uploads/2017/09/serasa-experian-logo.png",
+                "actions": 13,
+                "period": {
+                    "initialDate": "Mon Jan 01 2001 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
+                    "finalDate": "Tue Dec 31 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                },
+                "value": 321000
+            }
+        ],
+        "passive": {
+            "percentage": 50,
+            "trend": "to-top",
+            "chart": {
+                "label": ["2018", "2019", "2020"],
+                "dataset": [
+                    {
+                        "name": "Financeiro",
+                        "color": "#DDC3D0",
+                        "data": [4, 1, 2]
+                    },
+                    {
+                        "name": "Tributário",
+                        "color": "#DBDAEA",
+                        "data": [0, 1, 2]
+                    }
+                ]
+            }
+        },
+        "attention": [
+            {
+                "area": "ICMS",
+                "situation": "danger",
+                "description": "Situação no ICMS é diferente de Habilitado"
+            }
+        ]
+    },
+
+    "registrationForm": {},
+
+    "restrictions": {},
+
+    "members": {
+        "dash": "quantidade de pendencias",
+        "dashValue": "Valor total das pendencias"
+    },
+
+    "SocialBoard": {},
+
+    "patrimony": {},
+
+    "financial": {},
+
+    "documents": {},
+
+    "commitment": {},
+
+    "bankAccounts": {},
+
+    "clients": {},
+
+    "providers": {},
+
+    "reputation": {},
+
+    "contacts": {},
+
+    "segment": {},
+
+    "relationships": {},
+
+    "okrs": {}
+}]
