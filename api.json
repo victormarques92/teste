@@ -19,7 +19,7 @@
             "postalCode": "68501-535",
             "external": "#external-address"
         },
-        "branchOfficce": {
+        "branchOffice": {
             "name": "Matriz",
             "external": "#external-branch-office"
         },
@@ -169,7 +169,7 @@
         "dashValue": "Valor total das pendencias"
     },
 
-    "SocialBoard": {},
+    "socialBoard": {},
 
     "patrimony": {},
 
