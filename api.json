@@ -19,7 +19,7 @@
             "postalCode": "68501-535",
             "external": "#external-address"
         },
-        "branchOffice": {
+        "branchOfficce": {
             "name": "Matriz",
             "external": "#external-branch-office"
         },
@@ -61,18 +61,33 @@
             "author": "Luis Sena",
             "date": "Mon Feb 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
         },
-        "annotations": "Lorem ipsum dolor",
+        "annotations": "A SINOBRAS é associada ao Instituto Aço Brasil, entidade representativa das produtoras de aço brasileiras. Os associados operam usinas integradas e semi-integradas, ofertando uma ampla gama de produtos siderúrgicos que permitem atender plenamente o mercado interno e manter forte posição exportadora, situando o setor entre os principais geradores de saldo comercial do Brasil.\n\nEm consulta aos bureaus de crédito, a Serasa aponta protestos que somam R$ 25 mil e uma AJF o qual não especifica valor, contudo, a Procuradoria Geral da Fazenda aponta passivo tributário significativo com valor próximo a R$ 60MM e o Tribunal uma Ação Cível no valor de R$ 6,3 movida pelo Banco Santos, porém, não temos informações destes assuntos; O faturamento da empresa incluso em nosso relatório já é o consolidado, onde vem se mostrando em evolução nos exercícios de 2018 (4%) e 2019 (6%); Quanto ao endividamento, o Grupo vem operando com Bancos e Fundos, sendo que Bancos representam 68% das operações junto ao mercado, sendo grande parte em operações de Giro Parcelado (LP), onde nossa pesquisa de mercado detectou que estas operações estão sob garantias de duplicatas. Das demais, as quais não temos contatos com a instituição financeira e não informadas pelo cliente, adotando o conservadorismo, consideramos as mesmas dividas de curto prazo e com 100% de garantia de duplicatas. Quanto as operações junto a Fundos, as quais representam os demais 32% das operações no mercado, possui R$ 26,7MM, onde nosso cross checking apurou vop considerável e índice de liquidez satisfatório; Dados econômico-financeiros consolidados são satisfatórios, onde os balanços/balancete vem apurando lucro no final do exercícios, com margens de rentabilidade positiva, bem como, geração bruta de caixa adequada ao serviço da dívida. Apresentando boa liquidez, nos três exercícios analisados, seu contas a receber honram 100% seu passivo circulante. Cabe comentar que, os exercícios trazem a contabilização de uma rubrica denominada 'Empréstimos e Financiamentos Sub Judice', no valor de R$ 147,5MM, onde não possuímos esclarecimentos dessa rubrica, contudo, considerando seu PL de R$ 336MM, a empresa possui uma satisfatória estrutura de capitais. Considerando as operações e garantias junto as operações captadas no mercado e ciclo operacional informado pelo balanço, nossa planilha de comprometimento apura sobra de títulos.",
         "historic": [
             {
-                "type": "danger",
-                "date": "Mon Dec 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-                "limit": "800.000"
-            }
+				"type": "success",
+				"date": "Fri Jan 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+				"limit": "350.000"
+			},
+			{
+				"type": "danger",
+				"date": "Mon Dec 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+				"limit": "800.000"
+			},
+			{
+				"type": "success",
+				"date": "Fri Jan 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+				"limit": "350.000"
+			},
+			{
+				"type": "danger",
+				"date": "Mon Dec 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+				"limit": "800.000"
+			}
         ],
-        "creditAnalysis": "Lorem ipsum dolor",
+        "creditAnalysis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.",
         "seem": "",
-        "ccbLink": "",
-        "ccbPdf": ""
+        "ccbLink": "https://banners-victormarques.000webhostapp.com/CCB_BMP/CCB_BMP/CCB_BMP-Manifesto.pdf",
+        "ccbPdf": "https://banners-victormarques.000webhostapp.com/CCB_BMP/CCB_BMP/CCB_BMP-Manifesto.pdf"
     },
 
     "dashboard": {
@@ -84,8 +99,8 @@
         "restrictionsQtd": 16,
         "restrictionsValue": 0.3,
         "restrictionsFat": 0.6,
-        "ratingNugrau": "Lorem ipsum dolor",
-        "segmentSymbol": "",
+        "ratingNugrau": "Empresa apresenta adequados índices de liquidez, nível de endividamento compatível  com o seu faturamento e geração de caixa satisfatório. O risco e o acesso ao mercado financeiro estão comprometidos pelo fato da empresa estar em Recuperação Judicial desde 2017. Boa relação de Sacados com um PMP reduzido em relação ao seu segmento.",
+        "segmentSymbol": "https://img.icons8.com/windows/32/000000/foundry.png",
         "revenues": {
             "value": 45,
             "lastYear": "+17",
@@ -156,28 +171,1071 @@
                 "area": "ICMS",
                 "situation": "danger",
                 "description": "Situação no ICMS é diferente de Habilitado"
+            },
+            {
+                "area": "Recuperação Judicial",
+                "situation": "warning",
+                "description": "A empresa está em Recuparação Judicial desde 21/10/2014"
+            },
+            {
+                "area": "Falência",
+                "situation": "danger",
+                "description": "Esta empresa possui pedidos de falência sendo julgado"
+            },
+            {
+                "area": "Processos",
+                "situation": "danger",
+                "description": "processo com área Criminal - 0013891-21.2009.8.26.0278"
             }
         ]
     },
 
-    "registrationForm": {},
-
-    "restrictions": {},
-
-    "members": {
-        "dash": "quantidade de pendencias",
-        "dashValue": "Valor total das pendencias"
+    "registrationForm": {
+        "typeOfCompany": "Sociedade Anonima Fechada",
+        "registration": "001.949.275.04",
+        "registrationPerformedIn": "Tue Nov 19 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+        "nire": "15.300.015.120",
+        "predecessors": [
+            {
+                "name": "Copagaz Distribuidora de Gaz LTDA",
+                "until": "Sat Dec 31 2011 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
+            },
+            {
+                "name": "Copagaz Distribuidora de Gaz LTDA",
+                "until": "Sat Dec 31 2011 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
+            }
+        ],
+        "fundation": "Wed Nov 28 1955 00:00:00 GMT-0300 (Horário de Verão de Brasília)",
+        "numberOfEmployees": 1358,
+        "taxOption": "Lucro Real",
+        "stateRegistration": "15.119.844-6",
+        "branchOfEconomicActivity": "IND DE LAMINADOS DE ACO",
+        "serasaActivityCode": "I-09.09.00",
+        "importOnPurchases": 0,
+        "exportOnSales": 0,
+        "cnae": "24.237-02"
     },
 
-    "socialBoard": {},
+    "restrictions": {
+        "financialSegmentRelationship": [
+            {
+				"company": "CREDIT BRASIL FOMENTO MERCANTIL",
+				"type": "Factoring",
+				"occurrences": 10,
+				"lastOcurrence": "Wed May 22 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+			},
+			{
+				"company": "ONIX CREDIT S/A SECURITIZADORA",
+				"type": "Factoring",
+				"occurrences": 2,
+				"lastOcurrence": "Tue May 14 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+			},
+			{
+				"company": "KS FOMENTO MERCANTIL LTDA",
+				"type": "Factoring",
+				"occurrences": 1,
+				"lastOcurrence": "Thu May 16 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+			},
+			{
+				"company": "SIGMA CREDIT SECURITIZADORA S/A",
+				"type": "Factoring",
+				"occurrences": 1,
+				"lastOcurrence": "Fri May 24 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+			},
+			{
+				"company": "CONTRATUAL URBE SOCIED FOMENTO",
+				"type": "Factoring",
+				"occurrences": 1,
+				"lastOcurrence": "Thu Aug 01 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+			},
+			{
+				"company": "BANCO SAFRA S/A",
+				"type": "Factoring",
+				"occurrences": 1,
+				"lastOcurrence": "Thu Aug 08 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+			}
+        ],
+        "serasa": {
+            "valueRestrictions": 3169764.00,
+            "lastConsultation": "Mon Sep 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "pefin": null,
+            "pefinValue": null,
+            "protest": 19,
+            "protestValue": 3169764.00,
+            "refin": null,
+            "refinValue": null,
+            "judicialActions": null,
+            "judicialActionsValue": null,
+            "cheques": null,
+            "chequesValue": null
+        },
+        "serasaChart": {
+            "label": ["2017", "2018", "2019"],
+            "dataset": [{
+                "color": "#4bc0c0",
+                "data": [678.000, 834.000, 1100.000]
+            }]
+        },
+        "process": {
+            "total": 891,
+            "labor": 435,
+            "total2": 448,
+            "total3": 8
+        },
+        "processChart": {
+            "label": ["2017", "2018", "2019"],
+            "dataset": [{
+                "color": "#4bc0c0",
+                "data": [678.000, 834.000, 1100.000]
+            }]
+        },
+        "processByArea": [
+            {
+                "area": "TRT",
+                "qtd": 435,
+                "percentage": [{
+                        "value": 48.82
+                    },
+                    {
+                        "value": 51.18
+                    }
+                ],
+                "lastProcess": "Mon Oct 07 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+            },
+            {
+                "area": "TJ",
+                "qtd": 423,
+                "percentage": [{
+                        "value": 47.47
+                    },
+                    {
+                        "value": 52.53
+                    }
+                ],
+                "lastProcess": "Mon Nov 04 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+            },
+            {
+                "area": "STJ",
+                "qtd": 25,
+                "percentage": [{
+                        "value": 2.81
+                    },
+                    {
+                        "value": 97.19
+                    }
+                ],
+                "lastProcess": "Wed Jul 31 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+            },
+            {
+                "area": "ND",
+                "qtd": 14,
+                "percentage": [{
+                        "value": 1.57
+                    },
+                    {
+                        "value": 98.43
+                    }
+                ],
+                "lastProcess": "Wed Jan 23 2019 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
+            },
+            {
+                "area": "TRF",
+                "qtd": 8,
+                "percentage": [{
+                        "value": 0.90
+                    },
+                    {
+                        "value": 99.10
+                    }
+                ],
+                "lastProcess": "Mon Sep 09 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+            }
+        ],
+        "protestsSummaries": [
+			{
+				"role": "Cartórios",
+				"value": 13
+			},
+			{
+				"role": "Protestos",
+				"value": 255
+			},
+			{
+				"role": "Data",
+				"value": "Tue Oct 22 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+			},
+			{
+				"role": "última consulta",
+				"value": "segundos atrás"
+			},
+			{
+				"role": "Valores*",
+				"value": 71059.58
+			}
+        ],
+        "protestsChart": {
+            "label": ["2017", "2018", "2019"],
+            "dataset": [{
+                "color": "#4bc0c0",
+                "data": [678.000, 834.000, 1100.000]
+            }]
+        },
+        "notaryData": [
+            {
+				"uf": "SP",
+				"county": "ITAQUAQUECETUBA",
+				"notary": "TABELIAO DE NOTAS E DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 221,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "POA",
+				"notary": "TABELIAO DE NOTAS E DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 1,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "SAO PAULO",
+				"notary": "6. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 4,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "SAO PAULO",
+				"notary": "8. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 5,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "SAO PAULO",
+				"notary": "10. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 4,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "SAO PAULO",
+				"notary": "9. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 5,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "SAO PAULO",
+				"notary": "2. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 2,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "SAO PAULO",
+				"notary": "1. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 3,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "SAO PAULO",
+				"notary": "3. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 2,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "SAO PAULO",
+				"notary": "5. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 1,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "SP",
+				"county": "SAO PAULO",
+				"notary": "4. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+				"qtdProtests": 5,
+				"value": 0,
+				"link": "#!"
+			},
+			{
+				"uf": "PR",
+				"county": "CURITIBA",
+				"notary": "1º. TABELIONATO DE PROTESTO DE TITULOS DE CURITIBA",
+				"qtdProtests": 1,
+				"value": 44329.35,
+				"link": "#!"
+			},
+			{
+				"uf": "RJ",
+				"county": "RIO DE JANEIRO",
+				"notary": "Tabelionato do 1º Ofício de Protesto de Títulos",
+				"qtdProtests": 1,
+				"value": 26730.23,
+				"link": "#!"
+			}
+        ],
+        "cheques": [
+            {
+            "bank": "341 – Itaú SA",
+            "date": "Sun Mar 22 2015 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "reason": "12 – cheque sem fundos 2ª. Apresentação",
+            "value": 0
+            }
+        ],
+        "fiscalTax": [
+            {
+            "ie": "114932834116",
+            "situation": "Não Habilitado",
+            "date": "Sat Apr 11 2015 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "linkExternal": "#link-external"
+            }
+        ],
+        "rjf": [
+            {
+                "date": "Fri Feb 22 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "eventType": "Recuperação judicial concedida",
+                "county": "2ª Vara de Itaquaquecetuba/SP",
+                "applicant": "",
+                "adm": "",
+                "obs": "Face à aprovação do plano de recuperação judicial pela assemblei geral de credores."
+            },
+            {
+                "date": "Wed May 17 2017 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "eventType": "Recuperação judicial concedida",
+                "county": "2ª Vara de Itaquaquecetuba/SP",
+                "applicant": "",
+                "adm": "",
+                "obs": "Face à aprovação do plano pela assemblei geral de credores."
+            },
+            {
+                "date": "Wed Feb 22 2017 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "eventType": "Processo de falência extinto",
+                "county": "2ª Vara de Itaquaquecetuba/SP",
+                "applicant": "Continental Securitizadora S/A",
+                "adm": "",
+                "obs": "Desistência homologada."
+            }
+        ]
+    },
 
-    "patrimony": {},
+    "members": [
+        {
+            "name": "Rose Aline Matos Ferreira de Freitas Guimarães",
+            "birthday": "Wed Feb 22 1961 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "avatar": "",
+            "maritalStatus": "Casado",
+            "regime": "CB",
+            "cpf": "622.484.803-34",
+            "percentage": 25,
+            "proofOfLife": "",
+            "role": "D VPRES",
+            "eCPF": false,
+            "dig": true,
+            "borrowing": "",
+            "relationshipFederal": "",
+            "guarantee": "",
+            "spouse": {
+                "name": "José de Oliveira",
+                "cpf": "045.322.711-5",
+                "proofOfLife": ""
+            },
+            "cold": "114.751.928-51",
+            "position": "22-Sócio",
+            "address": {
+                "route": "R AJAROBA",
+                "number": 43,
+                "complement": "AP 231 1",
+                "postalCode": "04223-060",
+                "city": "SAO PAULO",
+                "state": "SP"
+            },
+            "phone": "(11) 5575-7666",
+            "motherName": "Bassima Hossine Chapchap",
+            "otherCompanies": {
+                "qtd": 1,
+                "shareCapital": 400000000
+            },
+            "pep": "NADA CONSTA segundo o COAF",
+            "participatingCompanies": [
+                {
+                    "position": "22-Sócio",
+                    "cnpj": "52.518.693/0001-02",
+                    "companyName": "ACH ENGENHARIA E CONSTRUTORA LTDA",
+                    "fantasyName": "",
+                    "county": "Brasil",
+                    "uf": "SP"
+                }
+            ],
+            "oldCompanies": [
+                {
+                    "position": "22-Sócio",
+                    "cnpj": "52.518.693/0001-02",
+                    "companyName": "ACH ENGENHARIA E CONSTRUTORA LTDA",
+                    "fantasyName": "",
+                    "county": "Brasil",
+                    "uf": "SP"
+                }
+            ],
+            "propertyImages": [
+                {
+                    "src": "https://i.pinimg.com/736x/54/8c/d2/548cd2df7e9d066dff97c60745c9e165.jpg"
+                },
+                {
+                    "src": "https://images.homify.com/c_fill,f_auto,q_0,w_740/v1448129217/p/photo/image/1135013/7.jpg"
+                },
+                {
+                    "src": "https://plantapronta.com.br/projetos/76/01.jpg"
+                },
+                {
+                    "src": "https://www.decorfacil.com/wp-content/uploads/2017/03/20171011rsz_20161114fachada-casa-simples-pequena-76.jpg"
+                }
+            ],
+            "pendencies": {
+                "qtd": 1,
+                "value": 159357
+            },
+            "lawSuit": {
+                "total": {
+                    "qtd": 0,
+                    "value": 0,
+                    "status": ""
+                },
+                "activePart": {
+                    "qtd": 0,
+                    "value": 0,
+                    "status": "success"
+                },
+                "passivePart": {
+                    "qtd": 0,
+                    "value": 0,
+                    "status": "danger"
+                },
+                "cpf": {
+                    "status": "success",
+                    "info": "O CPF consultado não possui nenhum processo!"
+                }
+            },
+            "courtLawsuits": {
+                "cnpj": {
+                    "status": "success",
+                    "info": "O CNPJ consultado não possui nenhum processo!"
+                }
 
-    "financial": {},
+            }
+        }
+    ],
 
-    "documents": {},
+    "socialBoard": [
+        {
+            "beforeWas": "",
+            "headOffice": "Filial",
+            "cnpj": "43.150.499/0002-07",
+            "consultIn": "Mon Jan 07 2019 15:12:47 GMT-0200 (Horário de Verão de Brasília)",
+            "registrationStatus": {
+                "status": "Baixada",
+                "date": "Mon Apr 28 1997 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "reason": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA"
+            }
+        },
+        {
+            "beforeWas": "",
+            "headOffice": "Filial",
+            "cnpj": "43.150.499/0016-02",
+            "consultIn": "Sat Dec 22 2018 08:11:47 GMT-0200 (Horário de Verão de Brasília)",
+            "registrationStatus": {
+                "status": "Ativa",
+                "date": "Thu Nov 03 2005 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
+                "reason": ""
+            }
+        },
+        {
+            "beforeWas": "",
+            "headOffice": "Matriz",
+            "cnpj": "43.150.499/0001-26",
+            "consultIn": "Thu Dec 20 2018 12:33:57 GMT-0200 (Horário de Verão de Brasília)",
+            "registrationStatus": {
+                "status": "Ativa",
+                "date": "Thu Nov 03 2005 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
+                "reason": ""
+            }
+        },
+        {
+            "beforeWas": "",
+            "headOffice": "Matriz",
+            "cnpj": "43.150.499/0001-26",
+            "consultIn": "Thu Dec 20 2018 12:33:57 GMT-0200 (Horário de Verão de Brasília)",
+            "registrationStatus": {
+                "status": "Ativa",
+                "date": "Thu Nov 03 2005 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
+                "reason": ""
+            }
+        }
+    ],
 
-    "commitment": {},
+    "patrimony": {
+        "website": "http://www.sinobras.com.br",
+        "timeline": [
+            {
+            "year": "Wed Nov 28 1955 00:00:00 GMT-0300 (Horário de Verão de Brasília)",
+            "description": "Fundação"
+            }
+        ],
+        "descriptive": "A SINOBRAS - Siderúrgica Norte Brasil S.A. – é primeira siderúrgica integrada das regiões Norte e Nordeste, que há 13 anos contribui com o desenvolvimento do estado do Pará e de toda a região Norte. A empresa possui capacidade produtiva de 380 mil toneladas de aço, com um mix de produtos comercializados em todas as regiões do Brasil e um atendimento logístico diferenciado. Com a produção de aço voltada para o mercado nacional, a SINOBRAS teve no último ano um faturamento de R$ 1,1 bilhão, consolidando-se como uma das grandes indústrias do Pará.  Atualmente, emprega 1.300 pessoas e gera 16.700 empregos indiretos, colaborando com o fluxo econômico e a geração de renda. A SINOBRAS faz parte do Grupo Aço Cearense, que tem 40 anos de atuação no mercado brasileiro, e oferece aos clientes produtos em aços longos para a construção civil, como vergalhões SI-50 e SI-60, treliças, arame recozido, tela e tela coluna.",
+		"photos": [
+			{
+				"src": "https://i.ibb.co/ZKj8HGy/sinobras-1.jpg"
+			},
+			{
+				"src": "https://i.ibb.co/7XwqFdW/sinobras-2.jpg"
+			},
+			{
+				"src": "https://i.ibb.co/BzNCvqZ/sinobras-3.jpg"
+			},
+			{
+				"src": "https://i.ibb.co/rccM3sk/sinobras-4.jpg"
+			}
+        ],
+        "properties": {
+            "qtdProperties": [
+                {
+                    "value": 4,
+                    "role": "Qtd. total de imóveis",
+                    "percentage": null
+                },
+                {
+                    "value": 3,
+                    "role": "Qtd. Residencial",
+                    "percentage": 75
+                },
+                {
+                    "value": 1,
+                    "role": "Qtd. Comercial",
+                    "percentage": 25
+                },
+                {
+                    "value": 0,
+                    "role": "Qtd. Industrial",
+                    "percentage": 0
+                },
+                {
+                    "value": 0,
+                    "role": "Outros",
+                    "percentage": 0
+                }
+            ],
+            "valueProperties": [
+                {
+                    "value": 34755983.00,
+                    "role": "Valor total de imóveis",
+                    "percentage": null
+                },
+                {
+                    "value": 22229935.00,
+                    "role": "Valor Residencial",
+                    "percentage": 64
+                }, {
+                    "value": 12526048.00,
+                    "role": "Valor Comercial",
+                    "percentage": 36
+                }, {
+                    "value": 0,
+                    "role": "Valor Industrial",
+                    "percentage": 0
+                }, {
+                    "value": 0,
+                    "role": "Outros",
+                    "percentage": 0
+                }
+            ],
+            "chart": {
+                "label": ["2017", "2018", "2019"],
+                "dataset": [{
+                    "color": "#4bc0c0",
+                    "data": [678.000, 834.000, 1100.000]
+                }]
+            },
+            "averageTime": "14 anos",
+            "estimatedValue": 1430000,
+            "details": [
+                {
+                    "taxpayer": "0882210028-1",
+                    "address": "R MIRANDA GUERRA, 106 - STO AMARO, SAO PAULO - SP",
+                    "landArea": 7667,
+                    "buildingArea": 574,
+                    "occupiedZone": 2040,
+                    "estimatedValue": 3019425,
+                    "yearOfConstruction": 1997,
+                    "relatedContributor": ""
+                },
+                {
+                    "taxpayer": "1701840400-1",
+                    "address": "R PROF ALEXANDRE CORREIA, 461 - MORUMBI, SAO PAULO - SP",
+                    "landArea": 1600,
+                    "buildingArea": 427,
+                    "occupiedZone": 842,
+                    "estimatedValue": 1536396,
+                    "yearOfConstruction": 1998,
+                    "relatedContributor": ""
+                }
+            ]
+        },
+        "vehicles": {
+            "statistics": [{
+                    "value": 42,
+                    "role": "Qtd. total de veículos",
+                    "percentage": null
+                },
+                {
+                    "value": 6,
+                    "role": "Qtd. veículos pesados",
+                    "percentage": 14
+                },
+                {
+                    "value": 36,
+                    "role": "Qtd. veículos leves",
+                    "percentage": 86
+                }
+            ],
+            "averageTime": "14 anos",
+            "estimatedValue": 1430000,
+            "details": [
+                {
+                    "plates": "MPM012",
+                    "brandModel": "H/HONDA CG 125 TODAY",
+                    "renavam": "431709653",
+                    "yearOfManufacture": 1990,
+                    "modelYear": 1991,
+                    "type": "Motocicleta",
+                    "fuel": "GASOLINA",
+                    "Chassi": "9C2JC1801LR556666",
+                    "species": "Passageiro"
+                },
+                {
+                    "plates": "PJM223",
+                    "brandModel": "H/HONDA CG 125 TODAY",
+                    "renavam": "431916365",
+                    "yearOfManufacture": 1991,
+                    "modelYear": 1991,
+                    "type": "Motocicleta",
+                    "fuel": "GASOLINA",
+                    "Chassi": "9C2JC1801MR567562",
+                    "species": "Passageiro"
+                },
+                {
+                    "plates": "PJM283",
+                    "brandModel": "H/HONDA CG 125 TODAY",
+                    "renavam": "431951357",
+                    "yearOfManufacture": 1991,
+                    "modelYear": 1991,
+                    "type": "Motocicleta",
+                    "fuel": "GASOLINA",
+                    "Chassi": "9C2JC1801MR573133",
+                    "species": "Passageiro"
+                }
+            ]
+        }
+    },
+
+    "financial": {
+        "chart": {
+            "label": ["2017", "2018", "2019"],
+            "dataset": [{
+                "color": "#4bc0c0",
+                "data": [678.000, 834.000, 1100.000]
+            }]
+        },
+        "indicators": {
+            "label": ["2017", "2018", "2019"],
+            "liquidityRatios": [
+                {
+                    "role": "Liquidez Corrente",
+                    "data1": 1.08,
+                    "data2": 1.06,
+                    "data3": 1.07,
+                    "status": "danger",
+                    "reference": "> 2"
+                },
+                {
+                    "role": "Liquidez Seca",
+                    "data1": 0.81,
+                    "data2": 0.93,
+                    "data3": 0.93,
+                    "status": "warning",
+                    "reference": "> 5"
+                },
+                {
+                    "role": "Liquidez Imediata",
+                    "data1": 0.01,
+                    "data2": 0.10,
+                    "data3": 0.08,
+                    "status": "success",
+                    "reference": "> 10"
+                }
+            ],
+            "capitalStructure": [{
+                    "role": "PL / Passivo Total",
+                    "data1": 0.12,
+                    "data2": 0.16,
+                    "data3": 0.17,
+                    "status": "danger",
+                    "reference": "> 2"
+                },
+                {
+                    "role": "Dividas CP / PL",
+                    "data1": 0.30,
+                    "data2": 0.16,
+                    "data3": 0.15,
+                    "status": "warning",
+                    "reference": "> 5"
+                },
+                {
+                    "role": "Dividas LP / PL",
+                    "data1": 0.10,
+                    "data2": 0.23,
+                    "data3": 0.20,
+                    "status": "danger",
+                    "reference": "> 10"
+                }
+            ],
+            "paymentCapacity": [{
+                    "role": "Divida Total / EBIT",
+                    "data1": 0.23,
+                    "data2": 0.96,
+                    "data3": 1.51,
+                    "status": "danger",
+                    "reference": "> 2"
+                },
+                {
+                    "role": "Divida Liquida / EBIT",
+                    "data1": 0.17,
+                    "data2": -0.59,
+                    "data3": -0.35,
+                    "status": "warning",
+                    "reference": "> 5"
+                },
+                {
+                    "role": "EBIT / Despesas Financeiras",
+                    "data1": 2.30,
+                    "data2": 1.08,
+                    "data3": 0.92,
+                    "status": "success",
+                    "reference": "> 10"
+                }
+            ],
+            "profitabilityRatios": [{
+                    "role": "Margem EBIT",
+                    "data1": 2.48,
+                    "data2": 1.20,
+                    "data3": 0.75,
+                    "status": "success",
+                    "reference": "> 2"
+                },
+                {
+                    "role": "Margem Liquida",
+                    "data1": 1.64,
+                    "data2": 0.79,
+                    "data3": 0.75,
+                    "status": "danger",
+                    "reference": "> 5"
+                },
+                {
+                    "role": "ROE",
+                    "data1": 1.13,
+                    "data2": 0.27,
+                    "data3": 0.11,
+                    "status": "success",
+                    "reference": "> 10"
+                }
+            ]
+        },
+        "balance": {
+            "label": ["2017", "2018", "Jun-2019"],
+            "dre": [
+				{
+					"role": "Receita Líquida",
+					"data1": 723710,
+					"data2": 730146,
+                    "data3": 7301467,
+                    "content": ""
+				},
+				{
+					"role": "EBIT",
+					"data1": 17940,
+					"data2": 8729,
+                    "data3": 5500,
+                    "content": ""
+				},
+				{
+					"role": "Lucro Líquido",
+					"data1": 11833,
+					"data2": 5761,
+                    "data3": 2500,
+                    "content": ""
+				},
+				{
+					"role": "Despesas Financeiras",
+					"data1": 7786,
+					"data2": 8046,
+                    "data3": 6000,
+                    "content": ""
+				}
+            ],
+            "balanceSheet": [
+				{
+					"role": "Ativo circulante",
+					"data1": 81959,
+					"data2": 112090,
+                    "data3": 117080,
+                    "content": ""
+				},
+				{
+					"role": "Caixa e Equivalentes",
+					"data1": 1125,
+					"data2": 13498,
+                    "data3": 10234,
+                    "content": ""
+				},
+				{
+					"role": "Contas a receber",
+					"data1": 3000,
+					"data2": 4000,
+                    "data3": 5000,
+                    "content": ""
+				},
+				{
+					"role": "Estoques",
+					"data1": 20454,
+					"data2": 13355,
+                    "data3": 15450,
+                    "content": ""
+				},
+				{
+					"role": "Imobilizado",
+					"data1": 5923,
+					"data2": 19994,
+                    "data3": 19994,
+                    "content": ""
+				},
+				{
+					"role": "Ativo Total",
+					"data1": 87883,
+					"data2": 132150,
+                    "data3": 135200,
+                    "content": ""
+				},
+				{
+					"role": "Passivo Circulante",
+					"data1": 76202,
+					"data2": 106120,
+					"data3": 109030
+				},
+				{
+					"role": "Fornecedores",
+					"data1": 40000,
+					"data2": 30000,
+                    "data3": 45000,
+                    "content": ""
+				},
+				{
+					"role": "Dividas CP",
+					"data1": 3114,
+					"data2": 3457,
+                    "data3": 3550,
+                    "content": ""
+				},
+				{
+					"role": "Dividas LP",
+					"data1": 1033,
+					"data2": 4884,
+                    "data3": 4750,
+                    "content": ""
+				},
+				{
+					"role": "Passivo Total",
+					"data1": 87833,
+					"data2": 132150,
+                    "data3": 136150,
+                    "content": ""
+				},
+				{
+					"role": "Patrimonio Líquido",
+					"data1": 10506,
+					"data2": 21017,
+                    "data3": 23517,
+                    "content": ""
+				}
+			]
+        }
+    },
+
+    "documents": [
+        {
+            "role": "Ficha",
+            "data": [
+                {
+                    "status": "delivered",
+                    "name": "Cartão CNPJ da RF",
+                    "info": "",
+                    "doc": {
+                        "name": "RFB CNPJREVA",
+                        "link": "https://banners-victormarques.000webhostapp.com/pdf/RFB%20CNPJREVA.pdf"
+                    },
+                    "validity": "Mon Apr 20 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                    "documentsSent": {
+                        "qtd": 1,
+                        "add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
+                        "expires": "Sun Feb 21 2021 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                    },
+                    "approvals": {
+                        "c": "approved",
+                        "g": "pending",
+                        "d": "pending"
+                    },
+                    "actions": {
+                        "interactivity": {
+                            "userName": "Luis Sena"
+                        }
+                    }
+                },
+                {
+                    "status": "refused",
+                    "name": "Contrato SocialRF",
+                    "info": "",
+                    "doc": {
+                        "name": "RFB CNPJREVA",
+                        "link": "https://banners-victormarques.000webhostapp.com/pdf/RFB%20CNPJREVA.pdf"
+                    },
+                    "validity": "Mon Apr 18 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                    "documentsSent": {
+                        "qtd": 3,
+                        "add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
+                        "expires": "Mon Apr 15 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                    },
+                    "approvals": {
+                        "c": "refused",
+                        "g": "pending",
+                        "d": "pending"
+                    },
+                    "actions": {
+                        "interactivity": null
+                    }
+                }
+            ]
+        },
+        {
+            "role": "Financeiro",
+            "data": [
+                {
+                    "status": "approved",
+                    "name": "Balanço 2017-2019",
+                    "info": "",
+                    "doc": {
+                        "name": "BALANÇO 2017",
+                        "link": "https://banners-victormarques.000webhostapp.com/pdf/BALANCO%202017-2019.pdf"
+                    },
+                    "validity": "Mon Apr 19 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                    "documentsSent": {
+                        "qtd": 1,
+                        "add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
+                        "expires": "Sun Feb 21 2021 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                    },
+                    "approvals": {
+                        "c": "approved",
+                        "g": "approved",
+                        "d": "approved"
+                    },
+                    "actions": {
+                        "interactivity": null
+                    }
+                },
+                {
+                    "status": "pending",
+                    "name": "CRE 2017-2019",
+                    "info": "",
+                    "doc": null,
+                    "validity": "Mon Apr 10 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                    "documentsSent": {
+                        "qtd": 0,
+                        "add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
+                        "expires": "Mon Apr 15 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                    },
+                    "approvals": {
+                        "c": "pending",
+                        "g": "pending",
+                        "d": "pending"
+                    },
+                    "actions": {
+                        "interactivity": null
+                    }
+                }
+            ]
+        }
+    ],
+
+    "commitment": {
+        "termDebtChart": [
+            {
+                "name": "Longo Prazo",
+                "value": 363903
+            },
+            {
+                "name": "Curto Prazo",
+                "value": 1071814
+            }
+        ],
+        "indebtednessByTypeChart": [
+            {
+                "name": "Desconto de Duplicata",
+                "value": 435086
+            },
+            {
+                "name": "Capital de Giro",
+                "value": 668282
+            },
+            {
+                "name": "Conta Garantida",
+                "value": 205192
+            },
+            {
+                "name": "Finame/Leasing",
+                "value": 127132
+            },
+            {
+                "name": "Outros",
+                "value": 25
+            }
+        ],
+        "counterpartyDebtChart": [
+            {
+                "name": "Banrisul",
+                "value": 620
+            },
+            {
+                "name": "Santander",
+                "value": 430
+            },
+            {
+                "name": "Mercantil",
+                "value": 370
+            },
+            {
+                "name": "Bradesco",
+                "value": 10
+            }
+        ]
+    },
 
     "bankAccounts": {},
 
