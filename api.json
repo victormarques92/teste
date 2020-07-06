@@ -1,2173 +1,2156 @@
 [{
-    "guid": "s7r1ngC0m256C@r4c7er3s0uM41s",
-    
-    "global": {
-        "number": 130,
-        "printFile": "",
-        "client": "SIDERURGICA NORTE BRASIL S A EM RECUPERACAO JUDICIAL",
-        "alias": "SINOBRAS",
-        "cnpj": "07.933.914/0001-54",
-        "cnpjExternal": "#cnpj-external",
-        "cod": "I-09.09.00 IND DE LAMINADOS DE ACO",
-        "type": "ltda",
-        "address": {
-            "route": "Rod PA 150",
-            "number": "S/N KM 425",
-            "neighborhood": "Indust",
-            "city": "Maraba",
-            "state": "PA",
-            "postalCode": "68501-535",
-            "external": "#external-address"
+    "vn00000_guid": "s7r1ngC0m256C@r4c7er3s0uM41s",
+
+    "vn00000_global": {
+        "vn00000_number": 130,
+        "vn00000_printFile": "",
+        "vn00000_client": "SIDERURGICA NORTE BRASIL S A EM RECUPERACAO JUDICIAL",
+        "vn00000_alias": "SINOBRAS",
+        "vn00000_cnpj": "07.933.914/0001-54",
+        "vn00000_cnpjExternal": "#cnpj-external",
+        "vn00000_cod": "I-09.09.00 IND DE LAMINADOS DE ACO",
+        "vn00000_type": "ltda",
+        "vn00000_address": {
+            "vn00000_route": "Rod PA 150",
+            "vn00000_number": "S/N KM 425",
+            "vn00000_neighborhood": "Indust",
+            "vn00000_city": "Maraba",
+            "vn00000_state": "PA",
+            "vn00000_postalCode": "68501-535",
+            "vn00000_external": "#external-address"
         },
-        "branchOffice": {
-            "name": "Matriz",
-            "external": "#external-branch-office"
+        "vn00000_branchOffice": {
+            "vn00000_name": "Matriz",
+            "vn00000_external": "#external-branch-office"
         },
-        "update": "Thu Jan 16 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-        "externalMethodology": "#externalMethodology",
-        "socialMedia": [
-            {
-                "name": "facebook",
-                "link": "https://www.facebook.com/"
+        "vn00000_update": "Thu Jan 16 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+        "vn00000_externalMethodology": "#externalMethodology",
+        "vn00000_socialMedia": [{
+                "vn00000_name": "facebook",
+                "vn00000_link": "https://www.facebook.com/"
             },
             {
-                "name": "twitter",
-                "link": "https://twitter.com/"
+                "vn00000_name": "twitter",
+                "vn00000_link": "https://twitter.com/"
             },
             {
-                "name": "linkedin",
-                "link": "https://www.linkedin.com/"
+                "vn00000_name": "linkedin",
+                "vn00000_link": "https://www.linkedin.com/"
             },
             {
-                "name": "email",
-                "link": "#email"
+                "vn00000_name": "email",
+                "vn00000_link": "#email"
             }
         ],
-        "evidence": [
-            {
-                "name": "RFB CNPJREVA",
-                "link": "https://banners-victormarques.000webhostapp.com/pdf/RFB%20CNPJREVA.pdf"
-            }
-        ]
+        "vn00000_evidence": [{
+            "vn00000_name": "RFB CNPJREVA",
+            "vn00000_link": "https://banners-victormarques.000webhostapp.com/pdf/RFB%20CNPJREVA.pdf"
+        }]
     },
 
-    "report": {
-        "cod": "EYT4-0AF5-I7U8-FA20",
-        "date": "Sun Feb 03 2020 21:00:00 GMT-0300 (Horário Padrão de Brasília)",
-        "version": "0001",
-        "limit": 25000000,
-        "status": {
+    "vn00000_report": {
+        "vn00000_cod": "EYT4-0AF5-I7U8-FA20",
+        "vn00000_date": "Sun Feb 03 2020 21:00:00 GMT-0300 (Horário Padrão de Brasília)",
+        "vn00000_version": "0001",
+        "vn00000_limit": 25000000,
+        "vn00000_status": {
             "type": "danger",
             "author": "Luis Sena",
             "date": "Mon Feb 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
         },
-        "annotations": "A SINOBRAS é associada ao Instituto Aço Brasil, entidade representativa das produtoras de aço brasileiras. Os associados operam usinas integradas e semi-integradas, ofertando uma ampla gama de produtos siderúrgicos que permitem atender plenamente o mercado interno e manter forte posição exportadora, situando o setor entre os principais geradores de saldo comercial do Brasil.\n\nEm consulta aos bureaus de crédito, a Serasa aponta protestos que somam R$ 25 mil e uma AJF o qual não especifica valor, contudo, a Procuradoria Geral da Fazenda aponta passivo tributário significativo com valor próximo a R$ 60MM e o Tribunal uma Ação Cível no valor de R$ 6,3 movida pelo Banco Santos, porém, não temos informações destes assuntos; O faturamento da empresa incluso em nosso relatório já é o consolidado, onde vem se mostrando em evolução nos exercícios de 2018 (4%) e 2019 (6%); Quanto ao endividamento, o Grupo vem operando com Bancos e Fundos, sendo que Bancos representam 68% das operações junto ao mercado, sendo grande parte em operações de Giro Parcelado (LP), onde nossa pesquisa de mercado detectou que estas operações estão sob garantias de duplicatas. Das demais, as quais não temos contatos com a instituição financeira e não informadas pelo cliente, adotando o conservadorismo, consideramos as mesmas dividas de curto prazo e com 100% de garantia de duplicatas. Quanto as operações junto a Fundos, as quais representam os demais 32% das operações no mercado, possui R$ 26,7MM, onde nosso cross checking apurou vop considerável e índice de liquidez satisfatório; Dados econômico-financeiros consolidados são satisfatórios, onde os balanços/balancete vem apurando lucro no final do exercícios, com margens de rentabilidade positiva, bem como, geração bruta de caixa adequada ao serviço da dívida. Apresentando boa liquidez, nos três exercícios analisados, seu contas a receber honram 100% seu passivo circulante. Cabe comentar que, os exercícios trazem a contabilização de uma rubrica denominada 'Empréstimos e Financiamentos Sub Judice', no valor de R$ 147,5MM, onde não possuímos esclarecimentos dessa rubrica, contudo, considerando seu PL de R$ 336MM, a empresa possui uma satisfatória estrutura de capitais. Considerando as operações e garantias junto as operações captadas no mercado e ciclo operacional informado pelo balanço, nossa planilha de comprometimento apura sobra de títulos.",
-        "historic": [
+        "vn00000_annotations": "A SINOBRAS é associada ao Instituto Aço Brasil, entidade representativa das produtoras de aço brasileiras. Os associados operam usinas integradas e semi-integradas, ofertando uma ampla gama de produtos siderúrgicos que permitem atender plenamente o mercado interno e manter forte posição exportadora, situando o setor entre os principais geradores de saldo comercial do Brasil.\n\nEm consulta aos bureaus de crédito, a Serasa aponta protestos que somam R$ 25 mil e uma AJF o qual não especifica valor, contudo, a Procuradoria Geral da Fazenda aponta passivo tributário significativo com valor próximo a R$ 60MM e o Tribunal uma Ação Cível no valor de R$ 6,3 movida pelo Banco Santos, porém, não temos informações destes assuntos; O faturamento da empresa incluso em nosso relatório já é o consolidado, onde vem se mostrando em evolução nos exercícios de 2018 (4%) e 2019 (6%); Quanto ao endividamento, o Grupo vem operando com Bancos e Fundos, sendo que Bancos representam 68% das operações junto ao mercado, sendo grande parte em operações de Giro Parcelado (LP), onde nossa pesquisa de mercado detectou que estas operações estão sob garantias de duplicatas. Das demais, as quais não temos contatos com a instituição financeira e não informadas pelo cliente, adotando o conservadorismo, consideramos as mesmas dividas de curto prazo e com 100% de garantia de duplicatas. Quanto as operações junto a Fundos, as quais representam os demais 32% das operações no mercado, possui R$ 26,7MM, onde nosso cross checking apurou vop considerável e índice de liquidez satisfatório; Dados econômico-financeiros consolidados são satisfatórios, onde os balanços/balancete vem apurando lucro no final do exercícios, com margens de rentabilidade positiva, bem como, geração bruta de caixa adequada ao serviço da dívida. Apresentando boa liquidez, nos três exercícios analisados, seu contas a receber honram 100% seu passivo circulante. Cabe comentar que, os exercícios trazem a contabilização de uma rubrica denominada 'Empréstimos e Financiamentos Sub Judice', no valor de R$ 147,5MM, onde não possuímos esclarecimentos dessa rubrica, contudo, considerando seu PL de R$ 336MM, a empresa possui uma satisfatória estrutura de capitais. Considerando as operações e garantias junto as operações captadas no mercado e ciclo operacional informado pelo balanço, nossa planilha de comprometimento apura sobra de títulos.",
+        "vn00000_historic": [{
+                "vn00000_type": "success",
+                "vn00000_date": "Fri Jan 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_limit": "350.000"
+            },
             {
-				"type": "success",
-				"date": "Fri Jan 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-				"limit": "350.000"
-			},
-			{
-				"type": "danger",
-				"date": "Mon Dec 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-				"limit": "800.000"
-			},
-			{
-				"type": "success",
-				"date": "Fri Jan 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-				"limit": "350.000"
-			},
-			{
-				"type": "danger",
-				"date": "Mon Dec 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-				"limit": "800.000"
-			}
+                "vn00000_type": "danger",
+                "vn00000_date": "Mon Dec 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_limit": "800.000"
+            },
+            {
+                "vn00000_type": "success",
+                "vn00000_date": "Fri Jan 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_limit": "350.000"
+            },
+            {
+                "vn00000_type": "danger",
+                "vn00000_date": "Mon Dec 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_limit": "800.000"
+            }
         ],
-        "creditAnalysis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.",
-        "seem": "",
-        "ccbLink": "https://banners-victormarques.000webhostapp.com/CCB_BMP/CCB_BMP/CCB_BMP-Manifesto.pdf",
-        "ccbPdf": "https://banners-victormarques.000webhostapp.com/CCB_BMP/CCB_BMP/CCB_BMP-Manifesto.pdf"
+        "vn00000_creditAnalysis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.",
+        "vn00000_seem": "",
+        "vn00000_ccbLink": "https://banners-victormarques.000webhostapp.com/CCB_BMP/CCB_BMP/CCB_BMP-Manifesto.pdf",
+        "vn00000_ccbPdf": "https://banners-victormarques.000webhostapp.com/CCB_BMP/CCB_BMP/CCB_BMP-Manifesto.pdf"
     },
 
-    "dashboard": {
-        "trend": "danger", 
-        "score": 2.3,
-        "eh": 4,
-        "exp": 742,
-        "spc": "B+",
-        "restrictionsQtd": 16,
-        "restrictionsValue": 0.3,
-        "restrictionsFat": 0.6,
-        "ratingNugrau": "Empresa apresenta adequados índices de liquidez, nível de endividamento compatível  com o seu faturamento e geração de caixa satisfatório. O risco e o acesso ao mercado financeiro estão comprometidos pelo fato da empresa estar em Recuperação Judicial desde 2017. Boa relação de Sacados com um PMP reduzido em relação ao seu segmento.",
-        "segmentSymbol": "https://img.icons8.com/windows/32/000000/foundry.png",
-        "revenues": {
-            "value": 45,
-            "lastYear": "+17",
-            "chart": {
-                "label": ["2017", "2018", "2019"],
-                "dataset": [
-					{
-						"color": "#4bc0c0",
-						"data": [678.000,834.000,1100.000]
-					}
-                ]
+    "vn00000_dashboard": {
+        "vn00000_trend": "danger",
+        "vn00000_score": 2.3,
+        "vn00000_eh": 4,
+        "vn00000_exp": 742,
+        "vn00000_spc": "B+",
+        "vn00000_restrictionsQtd": 16,
+        "vn00000_restrictionsValue": 0.3,
+        "vn00000_restrictionsFat": 0.6,
+        "vn00000_ratingNugrau": "Empresa apresenta adequados índices de liquidez, nível de endividamento compatível  com o seu faturamento e geração de caixa satisfatório. O risco e o acesso ao mercado financeiro estão comprometidos pelo fato da empresa estar em Recuperação Judicial desde 2017. Boa relação de Sacados com um PMP reduzido em relação ao seu segmento.",
+        "vn00000_segmentSymbol": "https://img.icons8.com/windows/32/000000/foundry.png",
+        "vn00000_revenues": {
+            "vn00000_value": 45,
+            "vn00000_lastYear": "+17",
+            "vn00000_chart": {
+                "vn00000_label": ["2017", "2018", "2019"],
+                "vn00000_dataset": [{
+                    "vn00000_color": "#4bc0c0",
+                    "vn00000_data": [678.000, 834.000, 1100.000]
+                }]
             }
         },
-        "situation": {
-            "status": "ativa",
-            "statusExternal": "#status-external",
-            "state": "Recup. Judicial",
-            "date": "Fri Jun 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+        "vn00000_situation": {
+            "vn00000_status": "ativa",
+            "vn00000_statusExternal": "#status-external",
+            "vn00000_state": "Recup. Judicial",
+            "vn00000_date": "Fri Jun 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
         },
-        "qsa": {
-            "shareCapital": 387896587,
-            "patrimony": 1242000,
-            "alteration": "Fri Jun 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-            "chart": {
-                "label": [
+        "vn00000_qsa": {
+            "vn00000_shareCapital": 387896587,
+            "vn00000_patrimony": 1242000,
+            "vn00000_alteration": "Fri Jun 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "vn00000_chart": {
+                "vn00000_label": [
                     "José Vilmar Ferreira",
                     "Rose Marie Matos Ferreira",
                     "Rose Aline Matos Ferreira de Freitas Guimarães",
                     "Francisco Ian de Vasconcelos Correa"
                 ],
-                "dataset": [25, 25, 25, 25],
-                "color": ["#04a9f5", "#9AA3D7", "#30E4C6", "#FAB"]
+                "vn00000_dataset": [25, 25, 25, 25],
+                "vn00000_color": ["#04a9f5", "#9AA3D7", "#30E4C6", "#FAB"]
             }
         },
-        "restrictions": [
-            {
-                "corporate": "Serasa",
-                "logo": "https://logodownload.org/wp-content/uploads/2017/09/serasa-experian-logo.png",
-                "actions": 13,
-                "period": {
-                    "initialDate": "Mon Jan 01 2001 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
-                    "finalDate": "Tue Dec 31 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
-                },
-                "value": 321000
-            }
-        ],
-        "passive": {
-            "percentage": 50,
-            "trend": "to-top",
-            "chart": {
-                "label": ["2018", "2019", "2020"],
-                "dataset": [
-                    {
-                        "name": "Financeiro",
-                        "color": "#DDC3D0",
-                        "data": [4, 1, 2]
+        "vn00000_restrictions": [{
+            "vn00000_corporate": "Serasa",
+            "vn00000_logo": "https://logodownload.org/wp-content/uploads/2017/09/serasa-experian-logo.png",
+            "vn00000_actions": 13,
+            "vn00000_period": {
+                "vn00000_initialDate": "Mon Jan 01 2001 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
+                "vn00000_finalDate": "Tue Dec 31 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+            },
+            "vn00000_value": 321000
+        }],
+        "vn00000_passive": {
+            "vn00000_percentage": 50,
+            "vn00000_trend": "to-top",
+            "vn00000_chart": {
+                "vn00000_label": ["2018", "2019", "2020"],
+                "vn00000_dataset": [{
+                        "vn00000_name": "Financeiro",
+                        "vn00000_color": "#DDC3D0",
+                        "vn00000_data": [4, 1, 2]
                     },
                     {
-                        "name": "Tributário",
-                        "color": "#DBDAEA",
-                        "data": [0, 1, 2]
+                        "vn00000_name": "Tributário",
+                        "vn00000_color": "#DBDAEA",
+                        "vn00000_data": [0, 1, 2]
                     }
                 ]
             }
         },
-        "attention": [
-            {
-                "area": "ICMS",
-                "situation": "danger",
-                "description": "Situação no ICMS é diferente de Habilitado"
+        "vn00000_attention": [{
+                "vn00000_area": "ICMS",
+                "vn00000_situation": "danger",
+                "vn00000_description": "Situação no ICMS é diferente de Habilitado"
             },
             {
-                "area": "Recuperação Judicial",
-                "situation": "warning",
-                "description": "A empresa está em Recuparação Judicial desde 21/10/2014"
+                "vn00000_area": "Recuperação Judicial",
+                "vn00000_situation": "warning",
+                "vn00000_description": "A empresa está em Recuparação Judicial desde 21/10/2014"
             },
             {
-                "area": "Falência",
-                "situation": "danger",
-                "description": "Esta empresa possui pedidos de falência sendo julgado"
+                "vn00000_area": "Falência",
+                "vn00000_situation": "danger",
+                "vn00000_description": "Esta empresa possui pedidos de falência sendo julgado"
             },
             {
-                "area": "Processos",
-                "situation": "danger",
-                "description": "processo com área Criminal - 0013891-21.2009.8.26.0278"
+                "vn00000_area": "Processos",
+                "vn00000_situation": "danger",
+                "vn00000_description": "processo com área Criminal - 0013891-21.2009.8.26.0278"
             }
         ]
     },
 
-    "registrationForm": {
-        "typeOfCompany": "Sociedade Anonima Fechada",
-        "registration": "001.949.275.04",
-        "registrationPerformedIn": "Tue Nov 19 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-        "nire": "15.300.015.120",
-        "predecessors": [
-            {
-                "name": "Copagaz Distribuidora de Gaz LTDA",
-                "until": "Sat Dec 31 2011 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
+    "vn00000_registrationForm": {
+        "vn00000_typeOfCompany": "Sociedade Anonima Fechada",
+        "vn00000_registration": "001.949.275.04",
+        "vn00000_registrationPerformedIn": "Tue Nov 19 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+        "vn00000_nire": "15.300.015.120",
+        "vn00000_predecessors": [{
+                "vn00000_name": "Copagaz Distribuidora de Gaz LTDA",
+                "vn00000_until": "Sat Dec 31 2011 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
             },
             {
-                "name": "Copagaz Distribuidora de Gaz LTDA",
-                "until": "Sat Dec 31 2011 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
+                "vn00000_name": "Copagaz Distribuidora de Gaz LTDA",
+                "vn00000_until": "Sat Dec 31 2011 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
             }
         ],
-        "fundation": "Wed Nov 28 1955 00:00:00 GMT-0300 (Horário de Verão de Brasília)",
-        "numberOfEmployees": 1358,
-        "taxOption": "Lucro Real",
-        "stateRegistration": "15.119.844-6",
-        "branchOfEconomicActivity": "IND DE LAMINADOS DE ACO",
-        "serasaActivityCode": "I-09.09.00",
-        "importOnPurchases": 0,
-        "exportOnSales": 0,
-        "cnae": "24.237-02"
+        "vn00000_fundation": "Wed Nov 28 1955 00:00:00 GMT-0300 (Horário de Verão de Brasília)",
+        "vn00000_numberOfEmployees": 1358,
+        "vn00000_taxOption": "Lucro Real",
+        "vn00000_stateRegistration": "15.119.844-6",
+        "vn00000_branchOfEconomicActivity": "IND DE LAMINADOS DE ACO",
+        "vn00000_serasaActivityCode": "I-09.09.00",
+        "vn00000_importOnPurchases": 0,
+        "vn00000_exportOnSales": 0,
+        "vn00000_cnae": "24.237-02"
     },
 
-    "restrictions": {
-        "financialSegmentRelationship": [
+    "vn00000_restrictions": {
+        "vn00000_financialSegmentRelationship": [
             {
-				"company": "CREDIT BRASIL FOMENTO MERCANTIL",
-				"type": "Factoring",
-				"occurrences": 10,
-				"lastOcurrence": "Wed May 22 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
-			},
-			{
-				"company": "ONIX CREDIT S/A SECURITIZADORA",
-				"type": "Factoring",
-				"occurrences": 2,
-				"lastOcurrence": "Tue May 14 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
-			},
-			{
-				"company": "KS FOMENTO MERCANTIL LTDA",
-				"type": "Factoring",
-				"occurrences": 1,
-				"lastOcurrence": "Thu May 16 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
-			},
-			{
-				"company": "SIGMA CREDIT SECURITIZADORA S/A",
-				"type": "Factoring",
-				"occurrences": 1,
-				"lastOcurrence": "Fri May 24 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
-			},
-			{
-				"company": "CONTRATUAL URBE SOCIED FOMENTO",
-				"type": "Factoring",
-				"occurrences": 1,
-				"lastOcurrence": "Thu Aug 01 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
-			},
-			{
-				"company": "BANCO SAFRA S/A",
-				"type": "Factoring",
-				"occurrences": 1,
-				"lastOcurrence": "Thu Aug 08 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
-			}
-        ],
-        "serasa": {
-            "valueRestrictions": 3169764.00,
-            "lastConsultation": "Mon Sep 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-            "pefin": null,
-            "pefinValue": null,
-            "protest": 19,
-            "protestValue": 3169764.00,
-            "refin": null,
-            "refinValue": null,
-            "judicialActions": null,
-            "judicialActionsValue": null,
-            "cheques": null,
-            "chequesValue": null
-        },
-        "serasaChart": {
-            "label": ["2017", "2018", "2019"],
-            "dataset": [{
-                "color": "#4bc0c0",
-                "data": [678.000, 834.000, 1100.000]
-            }]
-        },
-        "process": {
-            "total": 891,
-            "labor": 435,
-            "total2": 448,
-            "total3": 8
-        },
-        "processChart": {
-            "label": ["2017", "2018", "2019"],
-            "dataset": [{
-                "color": "#4bc0c0",
-                "data": [678.000, 834.000, 1100.000]
-            }]
-        },
-        "processByArea": [
-            {
-                "area": "TRT",
-                "qtd": 435,
-                "percentage": [{
-                        "value": 48.82
-                    },
-                    {
-                        "value": 51.18
-                    }
-                ],
-                "lastProcess": "Mon Oct 07 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                "vn00000_company": "CREDIT BRASIL FOMENTO MERCANTIL",
+                "vn00000_type": "Factoring",
+                "vn00000_occurrences": 10,
+                "vn00000_lastOcurrence": "Wed May 22 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
             },
             {
-                "area": "TJ",
-                "qtd": 423,
-                "percentage": [{
-                        "value": 47.47
-                    },
-                    {
-                        "value": 52.53
-                    }
-                ],
-                "lastProcess": "Mon Nov 04 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                "vn00000_company": "ONIX CREDIT S/A SECURITIZADORA",
+                "vn00000_type": "Factoring",
+                "vn00000_occurrences": 2,
+                "vn00000_lastOcurrence": "Tue May 14 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
             },
             {
-                "area": "STJ",
-                "qtd": 25,
-                "percentage": [{
-                        "value": 2.81
-                    },
-                    {
-                        "value": 97.19
-                    }
-                ],
-                "lastProcess": "Wed Jul 31 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                "vn00000_company": "KS FOMENTO MERCANTIL LTDA",
+                "vn00000_type": "Factoring",
+                "vn00000_occurrences": 1,
+                "vn00000_lastOcurrence": "Thu May 16 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
             },
             {
-                "area": "ND",
-                "qtd": 14,
-                "percentage": [{
-                        "value": 1.57
-                    },
-                    {
-                        "value": 98.43
-                    }
-                ],
-                "lastProcess": "Wed Jan 23 2019 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
+                "vn00000_company": "SIGMA CREDIT SECURITIZADORA S/A",
+                "vn00000_type": "Factoring",
+                "vn00000_occurrences": 1,
+                "vn00000_lastOcurrence": "Fri May 24 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
             },
             {
-                "area": "TRF",
-                "qtd": 8,
-                "percentage": [{
-                        "value": 0.90
-                    },
-                    {
-                        "value": 99.10
-                    }
-                ],
-                "lastProcess": "Mon Sep 09 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                "vn00000_company": "CONTRATUAL URBE SOCIED FOMENTO",
+                "vn00000_type": "Factoring",
+                "vn00000_occurrences": 1,
+                "vn00000_lastOcurrence": "Thu Aug 01 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+            },
+            {
+                "vn00000_company": "BANCO SAFRA S/A",
+                "vn00000_type": "Factoring",
+                "vn00000_occurrences": 1,
+                "vn00000_lastOcurrence": "Thu Aug 08 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
             }
         ],
-        "protestsSummaries": [
-			{
-				"role": "Cartórios",
-				"value": 13
-			},
-			{
-				"role": "Protestos",
-				"value": 255
-			},
-			{
-				"role": "Data",
-				"value": "Tue Oct 22 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
-			},
-			{
-				"role": "última consulta",
-				"value": "segundos atrás"
-			},
-			{
-				"role": "Valores*",
-				"value": 71059.58
-			}
-        ],
-        "protestsChart": {
-            "label": ["2017", "2018", "2019"],
-            "dataset": [{
-                "color": "#4bc0c0",
-                "data": [678.000, 834.000, 1100.000]
+        "vn00000_serasa": {
+            "vn00000_valueRestrictions": 3169764.00,
+            "vn00000_lastConsultation": "Mon Sep 30 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "vn00000_pefin": null,
+            "vn00000_pefinValue": null,
+            "vn00000_protest": 19,
+            "vn00000_protestValue": 3169764.00,
+            "vn00000_refin": null,
+            "vn00000_refinValue": null,
+            "vn00000_judicialActions": null,
+            "vn00000_judicialActionsValue": null,
+            "vn00000_cheques": null,
+            "vn00000_chequesValue": null
+        },
+        "vn00000_serasaChart": {
+            "vn00000_label": ["2017", "2018", "2019"],
+            "vn00000_dataset": [{
+                "vn00000_color": "#4bc0c0",
+                "vn00000_data": [678.000, 834.000, 1100.000]
             }]
         },
-        "notaryData": [
+        "vn00000_process": {
+            "vn00000_total": 891,
+            "vn00000_labor": 435,
+            "vn00000_total2": 448,
+            "vn00000_total3": 8
+        },
+        "vn00000_processChart": {
+            "vn00000_label": ["2017", "2018", "2019"],
+            "vn00000_dataset": [{
+                "vn00000_color": "#4bc0c0",
+                "vn00000_data": [678.000, 834.000, 1100.000]
+            }]
+        },
+        "vn00000_processByArea": [
             {
-				"uf": "SP",
-				"county": "ITAQUAQUECETUBA",
-				"notary": "TABELIAO DE NOTAS E DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 221,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "POA",
-				"notary": "TABELIAO DE NOTAS E DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 1,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "SAO PAULO",
-				"notary": "6. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 4,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "SAO PAULO",
-				"notary": "8. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 5,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "SAO PAULO",
-				"notary": "10. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 4,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "SAO PAULO",
-				"notary": "9. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 5,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "SAO PAULO",
-				"notary": "2. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 2,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "SAO PAULO",
-				"notary": "1. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 3,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "SAO PAULO",
-				"notary": "3. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 2,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "SAO PAULO",
-				"notary": "5. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 1,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "SP",
-				"county": "SAO PAULO",
-				"notary": "4. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
-				"qtdProtests": 5,
-				"value": 0,
-				"link": "#!"
-			},
-			{
-				"uf": "PR",
-				"county": "CURITIBA",
-				"notary": "1º. TABELIONATO DE PROTESTO DE TITULOS DE CURITIBA",
-				"qtdProtests": 1,
-				"value": 44329.35,
-				"link": "#!"
-			},
-			{
-				"uf": "RJ",
-				"county": "RIO DE JANEIRO",
-				"notary": "Tabelionato do 1º Ofício de Protesto de Títulos",
-				"qtdProtests": 1,
-				"value": 26730.23,
-				"link": "#!"
-			}
-        ],
-        "cheques": [
-            {
-            "bank": "341 – Itaú SA",
-            "date": "Sun Mar 22 2015 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-            "reason": "12 – cheque sem fundos 2ª. Apresentação",
-            "value": 0
-            }
-        ],
-        "fiscalTax": [
-            {
-            "ie": "114932834116",
-            "situation": "Não Habilitado",
-            "date": "Sat Apr 11 2015 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-            "linkExternal": "#link-external"
-            }
-        ],
-        "rjf": [
-            {
-                "date": "Fri Feb 22 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-                "eventType": "Recuperação judicial concedida",
-                "county": "2ª Vara de Itaquaquecetuba/SP",
-                "applicant": "",
-                "adm": "",
-                "obs": "Face à aprovação do plano de recuperação judicial pela assemblei geral de credores."
+                "vn00000_area": "TRT",
+                "vn00000_qtd": 435,
+                "vn00000_percentage": [{
+                        "vn00000_value": 48.82
+                    },
+                    {
+                        "vn00000_value": 51.18
+                    }
+                ],
+                "vn00000_lastProcess": "Mon Oct 07 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
             },
             {
-                "date": "Wed May 17 2017 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-                "eventType": "Recuperação judicial concedida",
-                "county": "2ª Vara de Itaquaquecetuba/SP",
-                "applicant": "",
-                "adm": "",
-                "obs": "Face à aprovação do plano pela assemblei geral de credores."
+                "vn00000_area": "TJ",
+                "vn00000_qtd": 423,
+                "vn00000_percentage": [{
+                        "vn00000_value": 47.47
+                    },
+                    {
+                        "vn00000_value": 52.53
+                    }
+                ],
+                "vn00000_lastProcess": "Mon Nov 04 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
             },
             {
-                "date": "Wed Feb 22 2017 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-                "eventType": "Processo de falência extinto",
-                "county": "2ª Vara de Itaquaquecetuba/SP",
-                "applicant": "Continental Securitizadora S/A",
-                "adm": "",
-                "obs": "Desistência homologada."
+                "vn00000_area": "STJ",
+                "vn00000_qtd": 25,
+                "vn00000_percentage": [{
+                        "vn00000_value": 2.81
+                    },
+                    {
+                        "vn00000_value": 97.19
+                    }
+                ],
+                "vn00000_lastProcess": "Wed Jul 31 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+            },
+            {
+                "vn00000_area": "ND",
+                "vn00000_qtd": 14,
+                "vn00000_percentage": [{
+                        "vn00000_value": 1.57
+                    },
+                    {
+                        "vn00000_value": 98.43
+                    }
+                ],
+                "vn00000_lastProcess": "Wed Jan 23 2019 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
+            },
+            {
+                "vn00000_area": "TRF",
+                "vn00000_qtd": 8,
+                "vn00000_percentage": [{
+                        "vn00000_value": 0.90
+                    },
+                    {
+                        "vn00000_value": 99.10
+                    }
+                ],
+                "vn00000_lastProcess": "Mon Sep 09 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+            }
+        ],
+        "vn00000_protestsSummaries": [
+            {
+                "vn00000_role": "Cartórios",
+                "vn00000_value": 13
+            },
+            {
+                "vn00000_role": "Protestos",
+                "vn00000_value": 255
+            },
+            {
+                "vn00000_role": "Data",
+                "vn00000_value": "Tue Oct 22 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+            },
+            {
+                "vn00000_role": "última consulta",
+                "vn00000_value": "segundos atrás"
+            },
+            {
+                "vn00000_role": "Valores*",
+                "vn00000_value": 71059.58
+            }
+        ],
+        "vn00000_protestsChart": {
+            "vn00000_label": ["2017", "2018", "2019"],
+            "vn00000_dataset": [{
+                "vn00000_color": "#4bc0c0",
+                "vn00000_data": [678.000, 834.000, 1100.000]
+            }]
+        },
+        "vn00000_notaryData": [
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "ITAQUAQUECETUBA",
+                "vn00000_notary": "TABELIAO DE NOTAS E DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 221,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "POA",
+                "vn00000_notary": "TABELIAO DE NOTAS E DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 1,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "SAO PAULO",
+                "vn00000_notary": "6. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 4,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "SAO PAULO",
+                "vn00000_notary": "8. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 5,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "SAO PAULO",
+                "vn00000_notary": "10. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 4,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "SAO PAULO",
+                "vn00000_notary": "9. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 5,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "SAO PAULO",
+                "vn00000_notary": "2. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 2,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "SAO PAULO",
+                "vn00000_notary": "1. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 3,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "SAO PAULO",
+                "vn00000_notary": "3. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 2,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "SAO PAULO",
+                "vn00000_notary": "5. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 1,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "SP",
+                "vn00000_county": "SAO PAULO",
+                "vn00000_notary": "4. TABELIAO DE PROTESTO DE LETRAS E TITULOS",
+                "vn00000_qtdProtests": 5,
+                "vn00000_value": 0,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "PR",
+                "vn00000_county": "CURITIBA",
+                "vn00000_notary": "1º. TABELIONATO DE PROTESTO DE TITULOS DE CURITIBA",
+                "vn00000_qtdProtests": 1,
+                "vn00000_value": 44329.35,
+                "vn00000_link": "#!"
+            },
+            {
+                "vn00000_uf": "RJ",
+                "vn00000_county": "RIO DE JANEIRO",
+                "vn00000_notary": "Tabelionato do 1º Ofício de Protesto de Títulos",
+                "vn00000_qtdProtests": 1,
+                "vn00000_value": 26730.23,
+                "vn00000_link": "#!"
+            }
+        ],
+        "vn00000_cheques": [{
+            "vn00000_bank": "341 – Itaú SA",
+            "vn00000_date": "Sun Mar 22 2015 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "vn00000_reason": "12 – cheque sem fundos 2ª. Apresentação",
+            "vn00000_value": 0
+        }],
+        "vn00000_fiscalTax": [{
+            "vn00000_ie": "114932834116",
+            "vn00000_situation": "Não Habilitado",
+            "vn00000_date": "Sat Apr 11 2015 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "vn00000_linkExternal": "#link-external"
+        }],
+        "vn00000_rjf": [
+            {
+                "vn00000_date": "Fri Feb 22 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_eventType": "Recuperação judicial concedida",
+                "vn00000_county": "2ª Vara de Itaquaquecetuba/SP",
+                "vn00000_applicant": "",
+                "vn00000_adm": "",
+                "vn00000_obs": "Face à aprovação do plano de recuperação judicial pela assemblei geral de credores."
+            },
+            {
+                "vn00000_date": "Wed May 17 2017 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_eventType": "Recuperação judicial concedida",
+                "vn00000_county": "2ª Vara de Itaquaquecetuba/SP",
+                "vn00000_applicant": "",
+                "vn00000_adm": "",
+                "vn00000_obs": "Face à aprovação do plano pela assemblei geral de credores."
+            },
+            {
+                "vn00000_date": "Wed Feb 22 2017 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_eventType": "Processo de falência extinto",
+                "vn00000_county": "2ª Vara de Itaquaquecetuba/SP",
+                "vn00000_applicant": "Continental Securitizadora S/A",
+                "vn00000_adm": "",
+                "vn00000_obs": "Desistência homologada."
             }
         ]
     },
 
-    "members": [
+    "vn00000_members": [
         {
-            "name": "Rose Aline Matos Ferreira de Freitas Guimarães",
-            "birthday": "Wed Feb 22 1961 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-            "avatar": "",
-            "maritalStatus": "Casado",
-            "regime": "CB",
-            "cpf": "622.484.803-34",
-            "percentage": 25,
-            "proofOfLife": "",
-            "role": "D VPRES",
-            "eCPF": false,
-            "dig": true,
-            "borrowing": "",
-            "relationshipFederal": "",
-            "guarantee": "",
-            "spouse": {
-                "name": "José de Oliveira",
-                "cpf": "045.322.711-5",
-                "proofOfLife": ""
+            "vn00000_name": "Rose Aline Matos Ferreira de Freitas Guimarães",
+            "vn00000_birthday": "Wed Feb 22 1961 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "vn00000_avatar": "",
+            "vn00000_maritalStatus": "Casado",
+            "vn00000_regime": "CB",
+            "vn00000_cpf": "622.484.803-34",
+            "vn00000_percentage": 25,
+            "vn00000_proofOfLife": "",
+            "vn00000_role": "D VPRES",
+            "vn00000_eCPF": false,
+            "vn00000_dig": true,
+            "vn00000_borrowing": "",
+            "vn00000_relationshipFederal": "",
+            "vn00000_guarantee": "",
+            "vn00000_spouse": {
+                "vn00000_name": "José de Oliveira",
+                "vn00000_cpf": "045.322.711-5",
+                "vn00000_proofOfLife": ""
             },
-            "cold": "114.751.928-51",
-            "position": "22-Sócio",
-            "address": {
-                "route": "R AJAROBA",
-                "number": 43,
-                "complement": "AP 231 1",
-                "postalCode": "04223-060",
-                "city": "SAO PAULO",
-                "state": "SP"
+            "vn00000_cold": "114.751.928-51",
+            "vn00000_position": "22-Sócio",
+            "vn00000_address": {
+                "vn00000_route": "R AJAROBA",
+                "vn00000_number": 43,
+                "vn00000_complement": "AP 231 1",
+                "vn00000_postalCode": "04223-060",
+                "vn00000_city": "SAO PAULO",
+                "vn00000_state": "SP"
             },
-            "phone": "(11) 5575-7666",
-            "motherName": "Bassima Hossine Chapchap",
-            "otherCompanies": {
-                "qtd": 1,
-                "shareCapital": 400000000
+            "vn00000_phone": "(11) 5575-7666",
+            "vn00000_motherName": "Bassima Hossine Chapchap",
+            "vn00000_otherCompanies": {
+                "vn00000_qtd": 1,
+                "vn00000_shareCapital": 400000000
             },
-            "pep": "NADA CONSTA segundo o COAF",
-            "participatingCompanies": [
+            "vn00000_pep": "NADA CONSTA segundo o COAF",
+            "vn00000_participatingCompanies": [{
+                "vn00000_position": "22-Sócio",
+                "vn00000_cnpj": "52.518.693/0001-02",
+                "vn00000_companyName": "ACH ENGENHARIA E CONSTRUTORA LTDA",
+                "vn00000_fantasyName": "",
+                "vn00000_county": "Brasil",
+                "vn00000_uf": "SP"
+            }],
+            "vn00000_oldCompanies": [{
+                "vn00000_position": "22-Sócio",
+                "vn00000_cnpj": "52.518.693/0001-02",
+                "vn00000_companyName": "ACH ENGENHARIA E CONSTRUTORA LTDA",
+                "vn00000_fantasyName": "",
+                "vn00000_county": "Brasil",
+                "vn00000_uf": "SP"
+            }],
+            "vn00000_propertyImages": [
                 {
-                    "position": "22-Sócio",
-                    "cnpj": "52.518.693/0001-02",
-                    "companyName": "ACH ENGENHARIA E CONSTRUTORA LTDA",
-                    "fantasyName": "",
-                    "county": "Brasil",
-                    "uf": "SP"
+                    "vn00000_src": "https://i.pinimg.com/736x/54/8c/d2/548cd2df7e9d066dff97c60745c9e165.jpg"
+                },
+                {
+                    "vn00000_src": "https://images.homify.com/c_fill,f_auto,q_0,w_740/v1448129217/p/photo/image/1135013/7.jpg"
+                },
+                {
+                    "vn00000_src": "https://plantapronta.com.br/projetos/76/01.jpg"
+                },
+                {
+                    "vn00000_src": "https://www.decorfacil.com/wp-content/uploads/2017/03/20171011rsz_20161114fachada-casa-simples-pequena-76.jpg"
                 }
             ],
-            "oldCompanies": [
-                {
-                    "position": "22-Sócio",
-                    "cnpj": "52.518.693/0001-02",
-                    "companyName": "ACH ENGENHARIA E CONSTRUTORA LTDA",
-                    "fantasyName": "",
-                    "county": "Brasil",
-                    "uf": "SP"
-                }
-            ],
-            "propertyImages": [
-                {
-                    "src": "https://i.pinimg.com/736x/54/8c/d2/548cd2df7e9d066dff97c60745c9e165.jpg"
-                },
-                {
-                    "src": "https://images.homify.com/c_fill,f_auto,q_0,w_740/v1448129217/p/photo/image/1135013/7.jpg"
-                },
-                {
-                    "src": "https://plantapronta.com.br/projetos/76/01.jpg"
-                },
-                {
-                    "src": "https://www.decorfacil.com/wp-content/uploads/2017/03/20171011rsz_20161114fachada-casa-simples-pequena-76.jpg"
-                }
-            ],
-            "pendencies": {
-                "qtd": 1,
-                "value": 159357
+            "vn00000_pendencies": {
+                "vn00000_qtd": 1,
+                "vn00000_value": 159357
             },
-            "lawSuit": {
-                "total": {
-                    "qtd": 0,
-                    "value": 0,
-                    "status": ""
+            "vn00000_lawSuit": {
+                "vn00000_total": {
+                    "vn00000_qtd": 0,
+                    "vn00000_value": 0,
+                    "vn00000_status": ""
                 },
-                "activePart": {
-                    "qtd": 0,
-                    "value": 0,
-                    "status": "success"
+                "vn00000_activePart": {
+                    "vn00000_qtd": 0,
+                    "vn00000_value": 0,
+                    "vn00000_status": "success"
                 },
-                "passivePart": {
-                    "qtd": 0,
-                    "value": 0,
-                    "status": "danger"
+                "vn00000_passivePart": {
+                    "vn00000_qtd": 0,
+                    "vn00000_value": 0,
+                    "vn00000_status": "danger"
                 },
-                "cpf": {
-                    "status": "success",
-                    "info": "O CPF consultado não possui nenhum processo!"
+                "vn00000_cpf": {
+                    "vn00000_status": "success",
+                    "vn00000_info": "O CPF consultado não possui nenhum processo!"
                 }
             },
-            "courtLawsuits": {
-                "cnpj": {
-                    "status": "success",
-                    "info": "O CNPJ consultado não possui nenhum processo!"
+            "vn00000_courtLawsuits": {
+                "vn00000_cnpj": {
+                    "vn00000_status": "success",
+                    "vn00000_info": "O CNPJ consultado não possui nenhum processo!"
                 }
-
             }
         }
     ],
 
-    "socialBoard": [
+    "vn00000_socialBoard": [
         {
-            "beforeWas": "",
-            "headOffice": "Filial",
-            "cnpj": "43.150.499/0002-07",
-            "consultIn": "Mon Jan 07 2019 15:12:47 GMT-0200 (Horário de Verão de Brasília)",
-            "registrationStatus": {
-                "status": "Baixada",
-                "date": "Mon Apr 28 1997 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-                "reason": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA"
+            "vn00000_beforeWas": "",
+            "vn00000_headOffice": "Filial",
+            "vn00000_cnpj": "43.150.499/0002-07",
+            "vn00000_consultIn": "Mon Jan 07 2019 15:12:47 GMT-0200 (Horário de Verão de Brasília)",
+            "vn00000_registrationStatus": {
+                "vn00000_status": "Baixada",
+                "vn00000_date": "Mon Apr 28 1997 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_reason": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA"
             }
         },
         {
-            "beforeWas": "",
-            "headOffice": "Filial",
-            "cnpj": "43.150.499/0016-02",
-            "consultIn": "Sat Dec 22 2018 08:11:47 GMT-0200 (Horário de Verão de Brasília)",
-            "registrationStatus": {
-                "status": "Ativa",
-                "date": "Thu Nov 03 2005 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
-                "reason": ""
+            "vn00000_beforeWas": "",
+            "vn00000_headOffice": "Filial",
+            "vn00000_cnpj": "43.150.499/0016-02",
+            "vn00000_consultIn": "Sat Dec 22 2018 08:11:47 GMT-0200 (Horário de Verão de Brasília)",
+            "vn00000_registrationStatus": {
+                "vn00000_status": "Ativa",
+                "vn00000_date": "Thu Nov 03 2005 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
+                "vn00000_reason": ""
             }
         },
         {
-            "beforeWas": "",
-            "headOffice": "Matriz",
-            "cnpj": "43.150.499/0001-26",
-            "consultIn": "Thu Dec 20 2018 12:33:57 GMT-0200 (Horário de Verão de Brasília)",
-            "registrationStatus": {
-                "status": "Ativa",
-                "date": "Thu Nov 03 2005 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
-                "reason": ""
+            "vn00000_beforeWas": "",
+            "vn00000_headOffice": "Matriz",
+            "vn00000_cnpj": "43.150.499/0001-26",
+            "vn00000_consultIn": "Thu Dec 20 2018 12:33:57 GMT-0200 (Horário de Verão de Brasília)",
+            "vn00000_registrationStatus": {
+                "vn00000_status": "Ativa",
+                "vn00000_date": "Thu Nov 03 2005 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
+                "vn00000_reason": ""
             }
         },
         {
-            "beforeWas": "",
-            "headOffice": "Matriz",
-            "cnpj": "43.150.499/0001-26",
-            "consultIn": "Thu Dec 20 2018 12:33:57 GMT-0200 (Horário de Verão de Brasília)",
-            "registrationStatus": {
-                "status": "Ativa",
-                "date": "Thu Nov 03 2005 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
-                "reason": ""
+            "vn00000_beforeWas": "",
+            "vn00000_headOffice": "Matriz",
+            "vn00000_cnpj": "43.150.499/0001-26",
+            "vn00000_consultIn": "Thu Dec 20 2018 12:33:57 GMT-0200 (Horário de Verão de Brasília)",
+            "vn00000_registrationStatus": {
+                "vn00000_status": "Ativa",
+                "vn00000_date": "Thu Nov 03 2005 00:00:00 GMT-0200 (Horário de Verão de Brasília)",
+                "vn00000_reason": ""
             }
         }
     ],
 
-    "patrimony": {
-        "website": "http://www.sinobras.com.br",
-        "timeline": [
+    "vn00000_patrimony": {
+        "vn00000_website": "http://www.sinobras.com.br",
+        "vn00000_timeline": [{
+            "vn00000_year": "Wed Nov 28 1955 00:00:00 GMT-0300 (Horário de Verão de Brasília)",
+            "vn00000_description": "Fundação"
+        }],
+        "vn00000_descriptive": "A SINOBRAS - Siderúrgica Norte Brasil S.A. – é primeira siderúrgica integrada das regiões Norte e Nordeste, que há 13 anos contribui com o desenvolvimento do estado do Pará e de toda a região Norte. A empresa possui capacidade produtiva de 380 mil toneladas de aço, com um mix de produtos comercializados em todas as regiões do Brasil e um atendimento logístico diferenciado. Com a produção de aço voltada para o mercado nacional, a SINOBRAS teve no último ano um faturamento de R$ 1,1 bilhão, consolidando-se como uma das grandes indústrias do Pará.  Atualmente, emprega 1.300 pessoas e gera 16.700 empregos indiretos, colaborando com o fluxo econômico e a geração de renda. A SINOBRAS faz parte do Grupo Aço Cearense, que tem 40 anos de atuação no mercado brasileiro, e oferece aos clientes produtos em aços longos para a construção civil, como vergalhões SI-50 e SI-60, treliças, arame recozido, tela e tela coluna.",
+        "vn00000_photos": [
             {
-            "year": "Wed Nov 28 1955 00:00:00 GMT-0300 (Horário de Verão de Brasília)",
-            "description": "Fundação"
+                "vn00000_src": "https://i.ibb.co/ZKj8HGy/sinobras-1.jpg"
+            },
+            {
+                "vn00000_src": "https://i.ibb.co/7XwqFdW/sinobras-2.jpg"
+            },
+            {
+                "vn00000_src": "https://i.ibb.co/BzNCvqZ/sinobras-3.jpg"
+            },
+            {
+                "vn00000_src": "https://i.ibb.co/rccM3sk/sinobras-4.jpg"
             }
         ],
-        "descriptive": "A SINOBRAS - Siderúrgica Norte Brasil S.A. – é primeira siderúrgica integrada das regiões Norte e Nordeste, que há 13 anos contribui com o desenvolvimento do estado do Pará e de toda a região Norte. A empresa possui capacidade produtiva de 380 mil toneladas de aço, com um mix de produtos comercializados em todas as regiões do Brasil e um atendimento logístico diferenciado. Com a produção de aço voltada para o mercado nacional, a SINOBRAS teve no último ano um faturamento de R$ 1,1 bilhão, consolidando-se como uma das grandes indústrias do Pará.  Atualmente, emprega 1.300 pessoas e gera 16.700 empregos indiretos, colaborando com o fluxo econômico e a geração de renda. A SINOBRAS faz parte do Grupo Aço Cearense, que tem 40 anos de atuação no mercado brasileiro, e oferece aos clientes produtos em aços longos para a construção civil, como vergalhões SI-50 e SI-60, treliças, arame recozido, tela e tela coluna.",
-		"photos": [
-			{
-				"src": "https://i.ibb.co/ZKj8HGy/sinobras-1.jpg"
-			},
-			{
-				"src": "https://i.ibb.co/7XwqFdW/sinobras-2.jpg"
-			},
-			{
-				"src": "https://i.ibb.co/BzNCvqZ/sinobras-3.jpg"
-			},
-			{
-				"src": "https://i.ibb.co/rccM3sk/sinobras-4.jpg"
-			}
-        ],
-        "properties": {
-            "qtdProperties": [
+        "vn00000_properties": {
+            "vn00000_qtdProperties": [
                 {
-                    "value": 4,
-                    "role": "Qtd. total de imóveis",
-                    "percentage": null
+                    "vn00000_value": 4,
+                    "vn00000_role": "Qtd. total de imóveis",
+                    "vn00000_percentage": null
                 },
                 {
-                    "value": 3,
-                    "role": "Qtd. Residencial",
-                    "percentage": 75
+                    "vn00000_value": 3,
+                    "vn00000_role": "Qtd. Residencial",
+                    "vn00000_percentage": 75
                 },
                 {
-                    "value": 1,
-                    "role": "Qtd. Comercial",
-                    "percentage": 25
+                    "vn00000_value": 1,
+                    "vn00000_role": "Qtd. Comercial",
+                    "vn00000_percentage": 25
                 },
                 {
-                    "value": 0,
-                    "role": "Qtd. Industrial",
-                    "percentage": 0
+                    "vn00000_value": 0,
+                    "vn00000_role": "Qtd. Industrial",
+                    "vn00000_percentage": 0
                 },
                 {
-                    "value": 0,
-                    "role": "Outros",
-                    "percentage": 0
+                    "vn00000_value": 0,
+                    "vn00000_role": "Outros",
+                    "vn00000_percentage": 0
                 }
             ],
-            "valueProperties": [
+            "vn00000_valueProperties": [
                 {
-                    "value": 34755983.00,
-                    "role": "Valor total de imóveis",
-                    "percentage": null
+                    "vn00000_value": 34755983.00,
+                    "vn00000_role": "Valor total de imóveis",
+                    "vn00000_percentage": null
                 },
                 {
-                    "value": 22229935.00,
-                    "role": "Valor Residencial",
-                    "percentage": 64
+                    "vn00000_value": 22229935.00,
+                    "vn00000_role": "Valor Residencial",
+                    "vn00000_percentage": 64
                 }, {
-                    "value": 12526048.00,
-                    "role": "Valor Comercial",
-                    "percentage": 36
+                    "vn00000_value": 12526048.00,
+                    "vn00000_role": "Valor Comercial",
+                    "vn00000_percentage": 36
                 }, {
-                    "value": 0,
-                    "role": "Valor Industrial",
-                    "percentage": 0
+                    "vn00000_value": 0,
+                    "vn00000_role": "Valor Industrial",
+                    "vn00000_percentage": 0
                 }, {
-                    "value": 0,
-                    "role": "Outros",
-                    "percentage": 0
+                    "vn00000_value": 0,
+                    "vn00000_role": "Outros",
+                    "vn00000_percentage": 0
                 }
             ],
-            "chart": {
-                "label": ["2017", "2018", "2019"],
-                "dataset": [{
-                    "color": "#4bc0c0",
-                    "data": [678.000, 834.000, 1100.000]
+            "vn00000_chart": {
+                "vn00000_label": ["2017", "2018", "2019"],
+                "vn00000_dataset": [{
+                    "vn00000_color": "#4bc0c0",
+                    "vn00000_data": [678.000, 834.000, 1100.000]
                 }]
             },
-            "averageTime": "14 anos",
-            "estimatedValue": 1430000,
-            "details": [
+            "vn00000_averageTime": "14 anos",
+            "vn00000_estimatedValue": 1430000,
+            "vn00000_details": [
                 {
-                    "taxpayer": "0882210028-1",
-                    "address": "R MIRANDA GUERRA, 106 - STO AMARO, SAO PAULO - SP",
-                    "landArea": 7667,
-                    "buildingArea": 574,
-                    "occupiedZone": 2040,
-                    "estimatedValue": 3019425,
-                    "yearOfConstruction": 1997,
-                    "relatedContributor": ""
+                    "vn00000_taxpayer": "0882210028-1",
+                    "vn00000_address": "R MIRANDA GUERRA, 106 - STO AMARO, SAO PAULO - SP",
+                    "vn00000_landArea": 7667,
+                    "vn00000_buildingArea": 574,
+                    "vn00000_occupiedZone": 2040,
+                    "vn00000_estimatedValue": 3019425,
+                    "vn00000_yearOfConstruction": 1997,
+                    "vn00000_relatedContributor": ""
                 },
                 {
-                    "taxpayer": "1701840400-1",
-                    "address": "R PROF ALEXANDRE CORREIA, 461 - MORUMBI, SAO PAULO - SP",
-                    "landArea": 1600,
-                    "buildingArea": 427,
-                    "occupiedZone": 842,
-                    "estimatedValue": 1536396,
-                    "yearOfConstruction": 1998,
-                    "relatedContributor": ""
+                    "vn00000_taxpayer": "1701840400-1",
+                    "vn00000_address": "R PROF ALEXANDRE CORREIA, 461 - MORUMBI, SAO PAULO - SP",
+                    "vn00000_landArea": 1600,
+                    "vn00000_buildingArea": 427,
+                    "vn00000_occupiedZone": 842,
+                    "vn00000_estimatedValue": 1536396,
+                    "vn00000_yearOfConstruction": 1998,
+                    "vn00000_relatedContributor": ""
                 }
             ]
         },
-        "vehicles": {
-            "statistics": [{
-                    "value": 42,
-                    "role": "Qtd. total de veículos",
-                    "percentage": null
+        "vn00000_vehicles": {
+            "vn00000_statistics": [
+                {
+                    "vn00000_value": 42,
+                    "vn00000_role": "Qtd. total de veículos",
+                    "vn00000_percentage": null
                 },
                 {
-                    "value": 6,
-                    "role": "Qtd. veículos pesados",
-                    "percentage": 14
+                    "vn00000_value": 6,
+                    "vn00000_role": "Qtd. veículos pesados",
+                    "vn00000_percentage": 14
                 },
                 {
-                    "value": 36,
-                    "role": "Qtd. veículos leves",
-                    "percentage": 86
+                    "vn00000_value": 36,
+                    "vn00000_role": "Qtd. veículos leves",
+                    "vn00000_percentage": 86
                 }
             ],
-            "averageTime": "14 anos",
-            "estimatedValue": 1430000,
-            "details": [
+            "vn00000_averageTime": "14 anos",
+            "vn00000_estimatedValue": 1430000,
+            "vn00000_details": [
                 {
-                    "plates": "MPM012",
-                    "brandModel": "H/HONDA CG 125 TODAY",
-                    "renavam": "431709653",
-                    "yearOfManufacture": 1990,
-                    "modelYear": 1991,
-                    "type": "Motocicleta",
-                    "fuel": "GASOLINA",
-                    "Chassi": "9C2JC1801LR556666",
-                    "species": "Passageiro"
+                    "vn00000_plates": "MPM012",
+                    "vn00000_brandModel": "H/HONDA CG 125 TODAY",
+                    "vn00000_renavam": "431709653",
+                    "vn00000_yearOfManufacture": 1990,
+                    "vn00000_modelYear": 1991,
+                    "vn00000_type": "Motocicleta",
+                    "vn00000_fuel": "GASOLINA",
+                    "vn00000_Chassi": "9C2JC1801LR556666",
+                    "vn00000_species": "Passageiro"
                 },
                 {
-                    "plates": "PJM223",
-                    "brandModel": "H/HONDA CG 125 TODAY",
-                    "renavam": "431916365",
-                    "yearOfManufacture": 1991,
-                    "modelYear": 1991,
-                    "type": "Motocicleta",
-                    "fuel": "GASOLINA",
-                    "Chassi": "9C2JC1801MR567562",
-                    "species": "Passageiro"
+                    "vn00000_plates": "PJM223",
+                    "vn00000_brandModel": "H/HONDA CG 125 TODAY",
+                    "vn00000_renavam": "431916365",
+                    "vn00000_yearOfManufacture": 1991,
+                    "vn00000_modelYear": 1991,
+                    "vn00000_type": "Motocicleta",
+                    "vn00000_fuel": "GASOLINA",
+                    "vn00000_Chassi": "9C2JC1801MR567562",
+                    "vn00000_species": "Passageiro"
                 },
                 {
-                    "plates": "PJM283",
-                    "brandModel": "H/HONDA CG 125 TODAY",
-                    "renavam": "431951357",
-                    "yearOfManufacture": 1991,
-                    "modelYear": 1991,
-                    "type": "Motocicleta",
-                    "fuel": "GASOLINA",
-                    "Chassi": "9C2JC1801MR573133",
-                    "species": "Passageiro"
+                    "vn00000_plates": "PJM283",
+                    "vn00000_brandModel": "H/HONDA CG 125 TODAY",
+                    "vn00000_renavam": "431951357",
+                    "vn00000_yearOfManufacture": 1991,
+                    "vn00000_modelYear": 1991,
+                    "vn00000_type": "Motocicleta",
+                    "vn00000_fuel": "GASOLINA",
+                    "vn00000_Chassi": "9C2JC1801MR573133",
+                    "vn00000_species": "Passageiro"
                 }
             ]
         }
     },
 
-    "financial": {
-        "chart": {
-            "label": ["2017", "2018", "2019"],
-            "dataset": [{
-                "color": "#4bc0c0",
-                "data": [678.000, 834.000, 1100.000]
+    "vn00000_financial": {
+        "vn00000_chart": {
+            "vn00000_label": ["2017", "2018", "2019"],
+            "vn00000_dataset": [{
+                "vn00000_color": "#4bc0c0",
+                "vn00000_data": [678.000, 834.000, 1100.000]
             }]
         },
-        "indicators": {
-            "label": ["2017", "2018", "2019"],
-            "liquidityRatios": [
+        "vn00000_indicators": {
+            "vn00000_label": ["2017", "2018", "2019"],
+            "vn00000_liquidityRatios": [
                 {
-                    "role": "Liquidez Corrente",
-                    "data1": 1.08,
-                    "data2": 1.06,
-                    "data3": 1.07,
-                    "status": "danger",
-                    "reference": "> 2"
+                    "vn00000_role": "Liquidez Corrente",
+                    "vn00000_data1": 1.08,
+                    "vn00000_data2": 1.06,
+                    "vn00000_data3": 1.07,
+                    "vn00000_status": "danger",
+                    "vn00000_reference": "> 2"
                 },
                 {
-                    "role": "Liquidez Seca",
-                    "data1": 0.81,
-                    "data2": 0.93,
-                    "data3": 0.93,
-                    "status": "warning",
-                    "reference": "> 5"
+                    "vn00000_role": "Liquidez Seca",
+                    "vn00000_data1": 0.81,
+                    "vn00000_data2": 0.93,
+                    "vn00000_data3": 0.93,
+                    "vn00000_status": "warning",
+                    "vn00000_reference": "> 5"
                 },
                 {
-                    "role": "Liquidez Imediata",
-                    "data1": 0.01,
-                    "data2": 0.10,
-                    "data3": 0.08,
-                    "status": "success",
-                    "reference": "> 10"
+                    "vn00000_role": "Liquidez Imediata",
+                    "vn00000_data1": 0.01,
+                    "vn00000_data2": 0.10,
+                    "vn00000_data3": 0.08,
+                    "vn00000_status": "success",
+                    "vn00000_reference": "> 10"
                 }
             ],
-            "capitalStructure": [{
-                    "role": "PL / Passivo Total",
-                    "data1": 0.12,
-                    "data2": 0.16,
-                    "data3": 0.17,
-                    "status": "danger",
-                    "reference": "> 2"
+            "vn00000_capitalStructure": [
+                {
+                    "vn00000_role": "PL / Passivo Total",
+                    "vn00000_data1": 0.12,
+                    "vn00000_data2": 0.16,
+                    "vn00000_data3": 0.17,
+                    "vn00000_status": "danger",
+                    "vn00000_reference": "> 2"
                 },
                 {
-                    "role": "Dividas CP / PL",
-                    "data1": 0.30,
-                    "data2": 0.16,
-                    "data3": 0.15,
-                    "status": "warning",
-                    "reference": "> 5"
+                    "vn00000_role": "Dividas CP / PL",
+                    "vn00000_data1": 0.30,
+                    "vn00000_data2": 0.16,
+                    "vn00000_data3": 0.15,
+                    "vn00000_status": "warning",
+                    "vn00000_reference": "> 5"
                 },
                 {
-                    "role": "Dividas LP / PL",
-                    "data1": 0.10,
-                    "data2": 0.23,
-                    "data3": 0.20,
-                    "status": "danger",
-                    "reference": "> 10"
+                    "vn00000_role": "Dividas LP / PL",
+                    "vn00000_data1": 0.10,
+                    "vn00000_data2": 0.23,
+                    "vn00000_data3": 0.20,
+                    "vn00000_status": "danger",
+                    "vn00000_reference": "> 10"
                 }
             ],
-            "paymentCapacity": [{
-                    "role": "Divida Total / EBIT",
-                    "data1": 0.23,
-                    "data2": 0.96,
-                    "data3": 1.51,
-                    "status": "danger",
-                    "reference": "> 2"
+            "vn00000_paymentCapacity": [
+                {
+                    "vn00000_role": "Divida Total / EBIT",
+                    "vn00000_data1": 0.23,
+                    "vn00000_data2": 0.96,
+                    "vn00000_data3": 1.51,
+                    "vn00000_status": "danger",
+                    "vn00000_reference": "> 2"
                 },
                 {
-                    "role": "Divida Liquida / EBIT",
-                    "data1": 0.17,
-                    "data2": -0.59,
-                    "data3": -0.35,
-                    "status": "warning",
-                    "reference": "> 5"
+                    "vn00000_role": "Divida Liquida / EBIT",
+                    "vn00000_data1": 0.17,
+                    "vn00000_data2": -0.59,
+                    "vn00000_data3": -0.35,
+                    "vn00000_status": "warning",
+                    "vn00000_reference": "> 5"
                 },
                 {
-                    "role": "EBIT / Despesas Financeiras",
-                    "data1": 2.30,
-                    "data2": 1.08,
-                    "data3": 0.92,
-                    "status": "success",
-                    "reference": "> 10"
+                    "vn00000_role": "EBIT / Despesas Financeiras",
+                    "vn00000_data1": 2.30,
+                    "vn00000_data2": 1.08,
+                    "vn00000_data3": 0.92,
+                    "vn00000_status": "success",
+                    "vn00000_reference": "> 10"
                 }
             ],
-            "profitabilityRatios": [{
-                    "role": "Margem EBIT",
-                    "data1": 2.48,
-                    "data2": 1.20,
-                    "data3": 0.75,
-                    "status": "success",
-                    "reference": "> 2"
+            "vn00000_profitabilityRatios": [
+                {
+                    "vn00000_role": "Margem EBIT",
+                    "vn00000_data1": 2.48,
+                    "vn00000_data2": 1.20,
+                    "vn00000_data3": 0.75,
+                    "vn00000_status": "success",
+                    "vn00000_reference": "> 2"
                 },
                 {
-                    "role": "Margem Liquida",
-                    "data1": 1.64,
-                    "data2": 0.79,
-                    "data3": 0.75,
-                    "status": "danger",
-                    "reference": "> 5"
+                    "vn00000_role": "Margem Liquida",
+                    "vn00000_data1": 1.64,
+                    "vn00000_data2": 0.79,
+                    "vn00000_data3": 0.75,
+                    "vn00000_status": "danger",
+                    "vn00000_reference": "> 5"
                 },
                 {
-                    "role": "ROE",
-                    "data1": 1.13,
-                    "data2": 0.27,
-                    "data3": 0.11,
-                    "status": "success",
-                    "reference": "> 10"
+                    "vn00000_role": "ROE",
+                    "vn00000_data1": 1.13,
+                    "vn00000_data2": 0.27,
+                    "vn00000_data3": 0.11,
+                    "vn00000_status": "success",
+                    "vn00000_reference": "> 10"
                 }
             ]
         },
-        "balance": {
-            "label": ["2017", "2018", "Jun-2019"],
-            "dre": [
-				{
-					"role": "Receita Líquida",
-					"data1": 723710,
-					"data2": 730146,
-                    "data3": 7301467,
-                    "content": ""
-				},
-				{
-					"role": "EBIT",
-					"data1": 17940,
-					"data2": 8729,
-                    "data3": 5500,
-                    "content": ""
-				},
-				{
-					"role": "Lucro Líquido",
-					"data1": 11833,
-					"data2": 5761,
-                    "data3": 2500,
-                    "content": ""
-				},
-				{
-					"role": "Despesas Financeiras",
-					"data1": 7786,
-					"data2": 8046,
-                    "data3": 6000,
-                    "content": ""
-				}
+        "vn00000_balance": {
+            "vn00000_label": ["2017", "2018", "Jun-2019"],
+            "vn00000_dre": [
+                {
+                    "vn00000_role": "Receita Líquida",
+                    "vn00000_data1": 723710,
+                    "vn00000_data2": 730146,
+                    "vn00000_data3": 7301467,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "EBIT",
+                    "vn00000_data1": 17940,
+                    "vn00000_data2": 8729,
+                    "vn00000_data3": 5500,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Lucro Líquido",
+                    "vn00000_data1": 11833,
+                    "vn00000_data2": 5761,
+                    "vn00000_data3": 2500,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Despesas Financeiras",
+                    "vn00000_data1": 7786,
+                    "vn00000_data2": 8046,
+                    "vn00000_data3": 6000,
+                    "vn00000_content": ""
+                }
             ],
-            "balanceSheet": [
-				{
-					"role": "Ativo circulante",
-					"data1": 81959,
-					"data2": 112090,
-                    "data3": 117080,
-                    "content": ""
-				},
-				{
-					"role": "Caixa e Equivalentes",
-					"data1": 1125,
-					"data2": 13498,
-                    "data3": 10234,
-                    "content": ""
-				},
-				{
-					"role": "Contas a receber",
-					"data1": 3000,
-					"data2": 4000,
-                    "data3": 5000,
-                    "content": ""
-				},
-				{
-					"role": "Estoques",
-					"data1": 20454,
-					"data2": 13355,
-                    "data3": 15450,
-                    "content": ""
-				},
-				{
-					"role": "Imobilizado",
-					"data1": 5923,
-					"data2": 19994,
-                    "data3": 19994,
-                    "content": ""
-				},
-				{
-					"role": "Ativo Total",
-					"data1": 87883,
-					"data2": 132150,
-                    "data3": 135200,
-                    "content": ""
-				},
-				{
-					"role": "Passivo Circulante",
-					"data1": 76202,
-					"data2": 106120,
-					"data3": 109030
-				},
-				{
-					"role": "Fornecedores",
-					"data1": 40000,
-					"data2": 30000,
-                    "data3": 45000,
-                    "content": ""
-				},
-				{
-					"role": "Dividas CP",
-					"data1": 3114,
-					"data2": 3457,
-                    "data3": 3550,
-                    "content": ""
-				},
-				{
-					"role": "Dividas LP",
-					"data1": 1033,
-					"data2": 4884,
-                    "data3": 4750,
-                    "content": ""
-				},
-				{
-					"role": "Passivo Total",
-					"data1": 87833,
-					"data2": 132150,
-                    "data3": 136150,
-                    "content": ""
-				},
-				{
-					"role": "Patrimonio Líquido",
-					"data1": 10506,
-					"data2": 21017,
-                    "data3": 23517,
-                    "content": ""
-				}
-			]
+            "vn00000_balanceSheet": [
+                {
+                    "vn00000_role": "Ativo circulante",
+                    "vn00000_data1": 81959,
+                    "vn00000_data2": 112090,
+                    "vn00000_data3": 117080,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Caixa e Equivalentes",
+                    "vn00000_data1": 1125,
+                    "vn00000_data2": 13498,
+                    "vn00000_data3": 10234,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Contas a receber",
+                    "vn00000_data1": 3000,
+                    "vn00000_data2": 4000,
+                    "vn00000_data3": 5000,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Estoques",
+                    "vn00000_data1": 20454,
+                    "vn00000_data2": 13355,
+                    "vn00000_data3": 15450,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Imobilizado",
+                    "vn00000_data1": 5923,
+                    "vn00000_data2": 19994,
+                    "vn00000_data3": 19994,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Ativo Total",
+                    "vn00000_data1": 87883,
+                    "vn00000_data2": 132150,
+                    "vn00000_data3": 135200,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Passivo Circulante",
+                    "vn00000_data1": 76202,
+                    "vn00000_data2": 106120,
+                    "vn00000_data3": 109030,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Fornecedores",
+                    "vn00000_data1": 40000,
+                    "vn00000_data2": 30000,
+                    "vn00000_data3": 45000,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Dividas CP",
+                    "vn00000_data1": 3114,
+                    "vn00000_data2": 3457,
+                    "vn00000_data3": 3550,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Dividas LP",
+                    "vn00000_data1": 1033,
+                    "vn00000_data2": 4884,
+                    "vn00000_data3": 4750,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Passivo Total",
+                    "vn00000_data1": 87833,
+                    "vn00000_data2": 132150,
+                    "vn00000_data3": 136150,
+                    "vn00000_content": ""
+                },
+                {
+                    "vn00000_role": "Patrimonio Líquido",
+                    "vn00000_data1": 10506,
+                    "vn00000_data2": 21017,
+                    "vn00000_data3": 23517,
+                    "vn00000_content": ""
+                }
+            ]
         }
     },
 
-    "documents": [
+    "vn00000_documents": [
         {
-            "role": "Ficha",
-            "data": [
+            "vn00000_role": "Ficha",
+            "vn00000_data": [
                 {
-                    "status": "delivered",
-                    "name": "Cartão CNPJ da RF",
-                    "info": "",
-                    "doc": {
-                        "name": "RFB CNPJREVA",
-                        "link": "https://banners-victormarques.000webhostapp.com/pdf/RFB%20CNPJREVA.pdf"
+                    "vn00000_status": "delivered",
+                    "vn00000_name": "Cartão CNPJ da RF",
+                    "vn00000_info": "",
+                    "vn00000_doc": {
+                        "vn00000_name": "RFB CNPJREVA",
+                        "vn00000_link": "https://banners-victormarques.000webhostapp.com/pdf/RFB%20CNPJREVA.pdf"
                     },
-                    "validity": "Mon Apr 20 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-                    "documentsSent": {
-                        "qtd": 1,
-                        "add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
-                        "expires": "Sun Feb 21 2021 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                    "vn00000_validity": "Mon Apr 20 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                    "vn00000_documentsSent": {
+                        "vn00000_qtd": 1,
+                        "vn00000_add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
+                        "vn00000_expires": "Sun Feb 21 2021 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
                     },
-                    "approvals": {
-                        "c": "approved",
-                        "g": "pending",
-                        "d": "pending"
+                    "vn00000_approvals": {
+                        "vn00000_c": "approved",
+                        "vn00000_g": "pending",
+                        "vn00000_d": "pending"
                     },
-                    "actions": {
-                        "interactivity": {
-                            "userName": "Luis Sena"
+                    "vn00000_actions": {
+                        "vn00000_interactivity": {
+                            "vn00000_userName": "Luis Sena"
                         }
                     }
                 },
                 {
-                    "status": "refused",
-                    "name": "Contrato SocialRF",
-                    "info": "",
-                    "doc": {
-                        "name": "RFB CNPJREVA",
-                        "link": "https://banners-victormarques.000webhostapp.com/pdf/RFB%20CNPJREVA.pdf"
+                    "vn00000_status": "refused",
+                    "vn00000_name": "Contrato SocialRF",
+                    "vn00000_info": "",
+                    "vn00000_doc": {
+                        "vn00000_name": "RFB CNPJREVA",
+                        "vn00000_link": "https://banners-victormarques.000webhostapp.com/pdf/RFB%20CNPJREVA.pdf"
                     },
-                    "validity": "Mon Apr 18 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-                    "documentsSent": {
-                        "qtd": 3,
-                        "add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
-                        "expires": "Mon Apr 15 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                    "vn00000_validity": "Mon Apr 18 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                    "vn00000_documentsSent": {
+                        "vn00000_qtd": 3,
+                        "vn00000_add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
+                        "vn00000_expires": "Mon Apr 15 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
                     },
-                    "approvals": {
-                        "c": "refused",
-                        "g": "pending",
-                        "d": "pending"
+                    "vn00000_approvals": {
+                        "vn00000_c": "refused",
+                        "vn00000_g": "pending",
+                        "vn00000_d": "pending"
                     },
-                    "actions": {
-                        "interactivity": null
+                    "vn00000_actions": {
+                        "vn00000_interactivity": null
                     }
                 }
             ]
         },
         {
-            "role": "Financeiro",
-            "data": [
+            "vn00000_role": "Financeiro",
+            "vn00000_data": [
                 {
-                    "status": "approved",
-                    "name": "Balanço 2017-2019",
-                    "info": "",
-                    "doc": {
-                        "name": "BALANÇO 2017",
-                        "link": "https://banners-victormarques.000webhostapp.com/pdf/BALANCO%202017-2019.pdf"
+                    "vn00000_status": "approved",
+                    "vn00000_name": "Balanço 2017-2019",
+                    "vn00000_info": "",
+                    "vn00000_doc": {
+                        "vn00000_name": "BALANÇO 2017",
+                        "vn00000_link": "https://banners-victormarques.000webhostapp.com/pdf/BALANCO%202017-2019.pdf"
                     },
-                    "validity": "Mon Apr 19 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-                    "documentsSent": {
-                        "qtd": 1,
-                        "add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
-                        "expires": "Sun Feb 21 2021 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                    "vn00000_validity": "Mon Apr 19 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                    "vn00000_documentsSent": {
+                        "vn00000_qtd": 1,
+                        "vn00000_add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
+                        "vn00000_expires": "Sun Feb 21 2021 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
                     },
-                    "approvals": {
-                        "c": "approved",
-                        "g": "approved",
-                        "d": "approved"
+                    "vn00000_approvals": {
+                        "vn00000_c": "approved",
+                        "vn00000_g": "approved",
+                        "vn00000_d": "approved"
                     },
-                    "actions": {
-                        "interactivity": null
+                    "vn00000_actions": {
+                        "vn00000_interactivity": null
                     }
                 },
                 {
-                    "status": "pending",
-                    "name": "CRE 2017-2019",
-                    "info": "",
-                    "doc": null,
-                    "validity": "Mon Apr 10 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-                    "documentsSent": {
-                        "qtd": 0,
-                        "add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
-                        "expires": "Mon Apr 15 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+                    "vn00000_status": "pending",
+                    "vn00000_name": "CRE 2017-2019",
+                    "vn00000_info": "",
+                    "vn00000_doc": null,
+                    "vn00000_validity": "Mon Apr 10 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                    "vn00000_documentsSent": {
+                        "vn00000_qtd": 0,
+                        "vn00000_add": "Sat Feb 22 2020 09:45:57 GMT-0300 (Horário Padrão de Brasília)",
+                        "vn00000_expires": "Mon Apr 15 2019 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
                     },
-                    "approvals": {
-                        "c": "pending",
-                        "g": "pending",
-                        "d": "pending"
+                    "vn00000_approvals": {
+                        "vn00000_c": "pending",
+                        "vn00000_g": "pending",
+                        "vn00000_d": "pending"
                     },
-                    "actions": {
-                        "interactivity": null
+                    "vn00000_actions": {
+                        "vn00000_interactivity": null
                     }
                 }
             ]
         }
     ],
 
-    "commitment": {
-        "termDebtChart": [
+    "vn00000_commitment": {
+        "vn00000_termDebtChart": [
             {
-                "name": "Longo Prazo",
-                "value": 363903
+                "vn00000_name": "Longo Prazo",
+                "vn00000_value": 363903
             },
             {
-                "name": "Curto Prazo",
-                "value": 1071814
+                "vn00000_name": "Curto Prazo",
+                "vn00000_value": 1071814
             }
         ],
-        "indebtednessByTypeChart": [
+        "vn00000_indebtednessByTypeChart": [
             {
-                "name": "Desconto de Duplicata",
-                "value": 435086
+                "vn00000_name": "Desconto de Duplicata",
+                "vn00000_value": 435086
             },
             {
-                "name": "Capital de Giro",
-                "value": 668282
+                "vn00000_name": "Capital de Giro",
+                "vn00000_value": 668282
             },
             {
-                "name": "Conta Garantida",
-                "value": 205192
+                "vn00000_name": "Conta Garantida",
+                "vn00000_value": 205192
             },
             {
-                "name": "Finame/Leasing",
-                "value": 127132
+                "vn00000_name": "Finame/Leasing",
+                "vn00000_value": 127132
             },
             {
-                "name": "Outros",
-                "value": 25
+                "vn00000_name": "Outros",
+                "vn00000_value": 25
             }
         ],
-        "counterpartyDebtChart": [
+        "vn00000_counterpartyDebtChart": [
             {
-                "name": "Banrisul",
-                "value": 620
+                "vn00000_name": "Banrisul",
+                "vn00000_value": 620
             },
             {
-                "name": "Santander",
-                "value": 430
+                "vn00000_name": "Santander",
+                "vn00000_value": 430
             },
             {
-                "name": "Mercantil",
-                "value": 370
+                "vn00000_name": "Mercantil",
+                "vn00000_value": 370
             },
             {
-                "name": "Bradesco",
-                "value": 10
+                "vn00000_name": "Bradesco",
+                "vn00000_value": 10
             }
         ],
-        "creditInformationSystem": {
-            "numberOfOperations": 34,
-            "numberOfIfs": 7,
-            "me": null,
-            "numberOfOperationsSupportedBySubJudice": null,
-            "operationsSupportedBySubJudice": null,
-            "numberOfOperationsWithManifestationOfDisagreement": null,
-            "operationsWithManifestationOfDisagreement": null,
-            "financialSystemRelationshipStartDate": "Thu May 17 2000 18:06:29 GMT-0300 (Horário Padrão de Brasília)"
+        "vn00000_creditInformationSystem": {
+            "vn00000_numberOfOperations": 34,
+            "vn00000_numberOfIfs": 7,
+            "vn00000_me": null,
+            "vn00000_numberOfOperationsSupportedBySubJudice": null,
+            "vn00000_operationsSupportedBySubJudice": null,
+            "vn00000_numberOfOperationsWithManifestationOfDisagreement": null,
+            "vn00000_operationsWithManifestationOfDisagreement": null,
+            "vn00000_financialSystemRelationshipStartDate": "Thu May 17 2000 18:06:29 GMT-0300 (Horário Padrão de Brasília)"
         },
-        "data": {
-            "resume": {
-                "date": "Thu Feb 22 2018 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
-                "expiring": 4760969,
-                "expired": 0,
-                "loss": 0,
-                "creditPortfolio": 4760969,
-                "InterfinancialOnlending": 0,
-                "coobligations": 0,
-                "totalResponsibility": 4760969,
-                "LoansToBeReleased": 0,
-                "creditLimit": 343993,
-                "indirectRisk": 0,
-                "coobligationReceived": 0,
-                "totalRisk": 5104962
+        "vn00000_data": {
+            "vn00000_resume": {
+                "vn00000_date": "Thu Feb 22 2018 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_expiring": 4760969,
+                "vn00000_expired": 0,
+                "vn00000_loss": 0,
+                "vn00000_creditPortfolio": 4760969,
+                "vn00000_InterfinancialOnlending": 0,
+                "vn00000_coobligations": 0,
+                "vn00000_totalResponsibility": 4760969,
+                "vn00000_LoansToBeReleased": 0,
+                "vn00000_creditLimit": 343993,
+                "vn00000_indirectRisk": 0,
+                "vn00000_coobligationReceived": 0,
+                "vn00000_totalRisk": 5104962
             },
-            "banks": [
+            "vn00000_banks": [
                 {
-                    "head": true,
-                    "bold": true,
-                    "name": "BANCO BRADESCO FINANCIAMENTOS S.A.",
-                    "expiring": 14351,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 14351,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 14351,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 14351
+                    "vn00000_head": true,
+                    "vn00000_bold": true,
+                    "vn00000_name": "BANCO BRADESCO FINANCIAMENTOS S.A.",
+                    "vn00000_expiring": 14351,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 14351,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 14351,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 14351
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Financiamentos",
-                    "expiring": 14351,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 14351,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 14351,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 14351
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Financiamentos",
+                    "vn00000_expiring": 14351,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 14351,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 14351,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 14351
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Aquisição de Bens Veículos Automotores",
-                    "expiring": 14351,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 14351,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 14351,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 14351
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Aquisição de Bens Veículos Automotores",
+                    "vn00000_expiring": 14351,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 14351,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 14351,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 14351
                 },
                 {
-                    "head": true,
-                    "bold": true,
-                    "name": "BANCO SANTANDER (BRASIL) S.A.",
-                    "expiring": 435086,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 435086,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 435086,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 30000,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 465086
+                    "vn00000_head": true,
+                    "vn00000_bold": true,
+                    "vn00000_name": "BANCO SANTANDER (BRASIL) S.A.",
+                    "vn00000_expiring": 435086,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 435086,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 435086,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 30000,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 465086
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Títulos Descontados",
-                    "expiring": 435086,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 435086,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 435086,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 435086
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Títulos Descontados",
+                    "vn00000_expiring": 435086,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 435086,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 435086,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 435086
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Desconto de Duplicatas",
-                    "expiring": 435086,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 435086,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 435086,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 435086
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Desconto de Duplicatas",
+                    "vn00000_expiring": 435086,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 435086,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 435086,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 435086
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Limites",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 30000,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 30000
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Limites",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 30000,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 30000
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Limite Contratado e não Utilizado",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 30000,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 30000
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Limite Contratado e não Utilizado",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 30000,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 30000
                 },
                 {
-                    "head": true,
-                    "bold": true,
-                    "name": "BANCO MERCANTIL DO BRASIL S.A.",
-                    "expiring": 364280,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 364280,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 364280,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 50000,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 414280
+                    "vn00000_head": true,
+                    "vn00000_bold": true,
+                    "vn00000_name": "BANCO MERCANTIL DO BRASIL S.A.",
+                    "vn00000_expiring": 364280,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 364280,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 364280,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 50000,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 414280
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Empréstimos",
-                    "expiring": 377,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 377,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 377,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 377
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Empréstimos",
+                    "vn00000_expiring": 377,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 377,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 377,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 377
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Cheque Especial",
-                    "expiring": 377,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 377,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 377,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 377
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Cheque Especial",
+                    "vn00000_expiring": 377,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 377,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 377,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 377
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Empréstimos",
-                    "expiring": 363903,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 363903,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 363903,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 363903
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Empréstimos",
+                    "vn00000_expiring": 363903,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 363903,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 363903,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 363903
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Capital de Giro com Prazo de Vencimento Sup. a 365 dias",
-                    "expiring": 363903,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 363903,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 363903,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 363903
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Capital de Giro com Prazo de Vencimento Sup. a 365 dias",
+                    "vn00000_expiring": 363903,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 363903,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 363903,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 363903
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Limites",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 50000,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 50000
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Limites",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 50000,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 50000
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Limite Contratado e não Utilizado",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 50000,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 50000
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Limite Contratado e não Utilizado",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 50000,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 50000
                 },
                 {
-                    "head": true,
-                    "bold": true,
-                    "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A.",
-                    "expiring": 622005,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 622005,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 622005,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 252588,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 874593
+                    "vn00000_head": true,
+                    "vn00000_bold": true,
+                    "vn00000_name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A.",
+                    "vn00000_expiring": 622005,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 622005,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 622005,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 252588,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 874593
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Adiantamentos a Depositantes",
-                    "expiring": 25,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 25,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 25,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 25
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Adiantamentos a Depositantes",
+                    "vn00000_expiring": 25,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 25,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 25,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 25
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Adiantamentos a Depositantes",
-                    "expiring": 25,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 25,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 25,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 25
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Adiantamentos a Depositantes",
+                    "vn00000_expiring": 25,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 25,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 25,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 25
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Empréstimos",
-                    "expiring": 304002,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 304002,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 304002,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 304002
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Empréstimos",
+                    "vn00000_expiring": 304002,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 304002,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 304002,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 304002
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Cheque Especial",
-                    "expiring": 304002,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 304002,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 304002,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 304002
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Cheque Especial",
+                    "vn00000_expiring": 304002,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 304002,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 304002,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 304002
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Empréstimos",
-                    "expiring": 205196,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 205196,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 205196,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 205196
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Empréstimos",
+                    "vn00000_expiring": 205196,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 205196,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 205196,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 205196
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Conta Garantida",
-                    "expiring": 205196,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 205196,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 205196,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 205196
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Conta Garantida",
+                    "vn00000_expiring": 205196,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 205196,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 205196,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 205196
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Financiamentos",
-                    "expiring": 11571,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 11571,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 11571,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 11571
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Financiamentos",
+                    "vn00000_expiring": 11571,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 11571,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 11571,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 11571
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Financiamentos",
-                    "expiring": 11571,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 11571,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 11571,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 11571
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Financiamentos",
+                    "vn00000_expiring": 11571,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 11571,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 11571,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 11571
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Operações de Arrendamento",
-                    "expiring": 101210,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 101210,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 101210,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 101210
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Operações de Arrendamento",
+                    "vn00000_expiring": 101210,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 101210,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 101210,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 101210
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Arrendamento Financeiro",
-                    "expiring": 101210,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 101210,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 101210,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 101210
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Arrendamento Financeiro",
+                    "vn00000_expiring": 101210,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 101210,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 101210,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 101210
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Limites",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 252588,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 252588
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Limites",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 252588,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 252588
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Limite Contratado e não Utilizado",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 252588,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 252588
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Limite Contratado e não Utilizado",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 252588,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 252588
                 },
                 {
-                    "head": true,
-                    "bold": true,
-                    "name": "CAIXA ECONOMICA FEDERAL",
-                    "expiring": 2196825,
-                    
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 2196825,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 2196825,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 10000,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
+                    "vn00000_head": true,
+                    "vn00000_bold": true,
+                    "vn00000_name": "CAIXA ECONOMICA FEDERAL",
+                    "vn00000_expiring": 2196825,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 2196825,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 2196825,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 10000,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
                     "totalRisk": 2206825
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Empréstimos",
-                    "expiring": 1528,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 1528,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 1528,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 1528
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Empréstimos",
+                    "vn00000_expiring": 1528,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 1528,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 1528,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 1528
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Cheque Especial",
-                    "expiring": 1528,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 1528,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 1528,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 1528
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Cheque Especial",
+                    "vn00000_expiring": 1528,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 1528,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 1528,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 1528
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Empréstimos",
-                    "expiring": 2195298,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 2195298,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 2195298,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 2195298
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Empréstimos",
+                    "vn00000_expiring": 2195298,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 2195298,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 2195298,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 2195298
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Capital de Giro com Prazo de Vencimento Sup. a 365 dias",
-                    "expiring": 2195298,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 2195298,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 2195298,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 2195298
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Capital de Giro com Prazo de Vencimento Sup. a 365 dias",
+                    "vn00000_expiring": 2195298,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 2195298,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 2195298,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 2195298
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Limites",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 10000,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 10000
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Limites",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 10000,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 10000
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Limite Contratado e não Utilizado",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 10000,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 10000
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Limite Contratado e não Utilizado",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 10000,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 10000
                 },
                 {
-                    "head": true,
-                    "bold": true,
-                    "name": "BANCO DAYCOVAL S.A.",
-                    "expiring": 1020149,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 1020149,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 1020149,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 1405,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 1021553
+                    "vn00000_head": true,
+                    "vn00000_bold": true,
+                    "vn00000_name": "BANCO DAYCOVAL S.A.",
+                    "vn00000_expiring": 1020149,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 1020149,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 1020149,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 1405,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 1021553
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Empréstimos",
-                    "expiring": 1020149,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 1020149,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 1020149,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 1020149
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Empréstimos",
+                    "vn00000_expiring": 1020149,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 1020149,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 1020149,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 1020149
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Conta Garantida",
-                    "expiring": 1020149,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 1020149,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 1020149,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 1020149
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Conta Garantida",
+                    "vn00000_expiring": 1020149,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 1020149,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 1020149,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 1020149
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Limites",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 1405,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 1405
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Limites",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 1405,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 1405
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Limite Contratado e não Utilizado",
-                    "expiring": 0,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 0,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 0,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 1405,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 1405
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Limite Contratado e não Utilizado",
+                    "vn00000_expiring": 0,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 0,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 0,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 1405,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 1405
                 },
                 {
-                    "head": true,
-                    "bold": true,
-                    "name": "DAYCOVAL LEASING - BANCO MÚLTIPLO S.A.",
-                    "expiring": 108274,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 108274,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 108274,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 108274
+                    "vn00000_head": true,
+                    "vn00000_bold": true,
+                    "vn00000_name": "DAYCOVAL LEASING - BANCO MÚLTIPLO S.A.",
+                    "vn00000_expiring": 108274,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 108274,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 108274,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 108274
                 },
                 {
-                    "head": false,
-                    "bold": true,
-                    "name": "Operações de Arrendamento",
-                    "expiring": 108274,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 108274,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 108274,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 108274
+                    "vn00000_head": false,
+                    "vn00000_bold": true,
+                    "vn00000_name": "Operações de Arrendamento",
+                    "vn00000_expiring": 108274,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 108274,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 108274,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 108274
                 },
                 {
-                    "head": false,
-                    "bold": false,
-                    "name": "Arrendamento Financeiro",
-                    "expiring": 108274,
-                    "expired": 0,
-                    "loss": 0,
-                    "creditPortfolio": 108274,
-                    "InterfinancialOnlending": 0,
-                    "coobligations": 0,
-                    "totalResponsibility": 108274,
-                    "LoansToBeReleased": 0,
-                    "creditLimit": 0,
-                    "indirectRisk": 0,
-                    "coobligationReceived": 0,
-                    "totalRisk": 108274
+                    "vn00000_head": false,
+                    "vn00000_bold": false,
+                    "vn00000_name": "Arrendamento Financeiro",
+                    "vn00000_expiring": 108274,
+                    "vn00000_expired": 0,
+                    "vn00000_loss": 0,
+                    "vn00000_creditPortfolio": 108274,
+                    "vn00000_InterfinancialOnlending": 0,
+                    "vn00000_coobligations": 0,
+                    "vn00000_totalResponsibility": 108274,
+                    "vn00000_LoansToBeReleased": 0,
+                    "vn00000_creditLimit": 0,
+                    "vn00000_indirectRisk": 0,
+                    "vn00000_coobligationReceived": 0,
+                    "vn00000_totalRisk": 108274
                 }
             ]
         }
     },
 
-    "bankAccounts": [
+    "vn00000_bankAccounts": [
         {
-            "type": "Regular",
-            "compe": 341,
-            "agency": "1478-2",
-            "currentAccount": "24771-9",
-            "opening": "Thu Sep 22 1996 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
-            "closure": null
+            "vn00000_type": "Regular",
+            "vn00000_compe": 341,
+            "vn00000_agency": "1478-2",
+            "vn00000_currentAccount": "24771-9",
+            "vn00000_opening": "Thu Sep 22 1996 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
+            "vn00000_closure": null
         },
         {
-            "type": "Regular",
-            "compe": 237,
-            "agency": "0001-1",
-            "currentAccount": "1789934-0",
-            "opening": "Thu May 22 2001 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
-            "closure": null
+            "vn00000_type": "Regular",
+            "vn00000_compe": 237,
+            "vn00000_agency": "0001-1",
+            "vn00000_currentAccount": "1789934-0",
+            "vn00000_opening": "Thu May 22 2001 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
+            "vn00000_closure": null
         },
         {
-            "type": "Escrow",
-            "compe": 7897655,
-            "agency": "0001-0",
-            "currentAccount": "0005645-0",
-            "opening": "Thu Jan 11 2019 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
-            "closure": null
+            "vn00000_type": "Escrow",
+            "vn00000_compe": 7897655,
+            "vn00000_agency": "0001-0",
+            "vn00000_currentAccount": "0005645-0",
+            "vn00000_opening": "Thu Jan 11 2019 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
+            "vn00000_closure": null
         }
     ],
 
-    "clients": [
+    "vn00000_clients": [
         {
-            "percentage": 32,
-            "client": {
-                "name": "COFAP SA",
-                "code": 12987155,
-                "filial": 2
+            "vn00000_percentage": 32,
+            "vn00000_client": {
+                "vn00000_name": "COFAP SA",
+                "vn00000_code": 12987155,
+                "vn00000_filial": 2
             },
-            "fat": "1.45",
-            "pmv": 42,
-            "aging": 5,
-            "segment": 27,
-            "trend": "success",
-            "rating": 4
-        }, {
-            "percentage": 14,
-            "client": {
-                "name": "BRASKEM SA",
-                "code": 34186440,
-                "filial": 1
+            "vn00000_fat": "1.45",
+            "vn00000_pmv": 42,
+            "vn00000_aging": 5,
+            "vn00000_segment": 27,
+            "vn00000_trend": "success",
+            "vn00000_rating": 4
+        },
+        {
+            "vn00000_percentage": 14,
+            "vn00000_client": {
+                "vn00000_name": "BRASKEM SA",
+                "vn00000_code": 34186440,
+                "vn00000_filial": 1
             },
-            "fat": "0.48",
-            "pmv": 39,
-            "aging": 0,
-            "segment": 24,
-            "trend": "danger",
-            "rating": 2
+            "vn00000_fat": "0.48",
+            "vn00000_pmv": 39,
+            "vn00000_aging": 0,
+            "vn00000_segment": 24,
+            "vn00000_trend": "danger",
+            "vn00000_rating": 2
         }
     ],
 
-    "providers": {
-        "mainSuppliers": [
+    "vn00000_providers": {
+        "vn00000_mainSuppliers": [
             {
-                "cnpj": "03.688.545/0001-20",
-                "companyName": "Digital work computer service comercial eireli"
+                "vn00000_cnpj": "03.688.545/0001-20",
+                "vn00000_companyName": "Digital work computer service comercial eireli"
             },
             {
-                "cnpj": "05.607.657/0001-35",
-                "companyName": "scansource brasil  distribuidora de tecnologias ltda"
+                "vn00000_cnpj": "05.607.657/0001-35",
+                "vn00000_companyName": "scansource brasil  distribuidora de tecnologias ltda"
             },
             {
-                "cnpj": "06.980.064/0001-82",
-                "companyName": "nacional gas butano distribuidora ltda"
+                "vn00000_cnpj": "06.980.064/0001-82",
+                "vn00000_companyName": "nacional gas butano distribuidora ltda"
             },
             {
-                "cnpj": "30.691.476/0001-87",
-                "companyName": "aea marginal tiete distribuidora de materiais eletronicos eire"
+                "vn00000_cnpj": "30.691.476/0001-87",
+                "vn00000_companyName": "aea marginal tiete distribuidora de materiais eletronicos eire"
             },
             {
-                "cnpj": "75.487.058/0001-00",
-                "companyName": "arxo industrial do brasil s/a"
+                "vn00000_cnpj": "75.487.058/0001-00",
+                "vn00000_companyName": "arxo industrial do brasil s/a"
             }
         ],
-        "relationshipMarket": [
-			{
-				"role": "0 - 6 meses",
-				"value": 22
-			},
-			{
-				"role": "6 meses - 1 ano",
-				"value": 24
-			},
-			{
-				"role": "1 - 3 anos",
-				"value": 34
-			},
-			{
-				"role": "3 - 5 anos",
-				"value": 12
-			},
-			{
-				"role": "5 - 10 anos",
-				"value": 24
-			},
-			{
-				"role": "+ 10 anos",
-				"value": 54
-			},
-			{
-				"role": "Inativas",
-				"value": 7
-			}
+        "vn00000_relationshipMarket": [
+            {
+                "vn00000_role": "0 - 6 meses",
+                "vn00000_value": 22
+            },
+            {
+                "vn00000_role": "6 meses - 1 ano",
+                "vn00000_value": 24
+            },
+            {
+                "vn00000_role": "1 - 3 anos",
+                "vn00000_value": 34
+            },
+            {
+                "vn00000_role": "3 - 5 anos",
+                "vn00000_value": 12
+            },
+            {
+                "vn00000_role": "5 - 10 anos",
+                "vn00000_value": 24
+            },
+            {
+                "vn00000_role": "+ 10 anos",
+                "vn00000_value": 54
+            },
+            {
+                "vn00000_role": "Inativas",
+                "vn00000_value": 7
+            }
         ],
-        "relationshipFactorings": [
+        "vn00000_relationshipFactorings": [
             {
-                "role": "0 - 6 meses",
-                "value": 18
+                "vn00000_role": "0 - 6 meses",
+                "vn00000_value": 18
             },
             {
-                "role": "6 meses - 1 ano",
-                "value": 24
+                "vn00000_role": "6 meses - 1 ano",
+                "vn00000_value": 24
             },
             {
-                "role": "1 - 3 anos",
-                "value": 24
+                "vn00000_role": "1 - 3 anos",
+                "vn00000_value": 24
             },
             {
-                "role": "3 - 5 anos",
-                "value": 2
+                "vn00000_role": "3 - 5 anos",
+                "vn00000_value": 2
             },
             {
-                "role": "5 - 10 anos",
-                "value": 8
+                "vn00000_role": "5 - 10 anos",
+                "vn00000_value": 8
             },
             {
-                "role": "+ 10 anos",
-                "value": 8
+                "vn00000_role": "+ 10 anos",
+                "vn00000_value": 8
             },
             {
-                "role": "Inativas",
-                "value": 2
+                "vn00000_role": "Inativas",
+                "vn00000_value": 2
             }
         ]
     },
 
-    "reputation": {},
+    "vn00000_reputation": {},
 
-    "contacts": [
+    "vn00000_contacts": [
         {
-            "image": "https://i.imgur.com/74sByqd.jpg",
-            "name": "Funcionario 1",
-            "office": "Diretor",
-            "phone": "00000000000",
-            "email": "funcionario@mail.com",
-            "linkedin": "https://www.linkedin.com/in/funcionario1/"
+            "vn00000_image": "https://i.imgur.com/74sByqd.jpg",
+            "vn00000_name": "Funcionario 1",
+            "vn00000_office": "Diretor",
+            "vn00000_phone": "00000000000",
+            "vn00000_email": "funcionario@mail.com",
+            "vn00000_linkedin": "https://www.linkedin.com/in/funcionario1/"
         },
 
         {
-            "image": null,
-            "name": "Funcionario 2",
-            "office": "Responsável Financeiro",
-            "phone": "00000000000",
-            "email": "funcionario@mail.com",
-            "linkedin": "https://www.linkedin.com/in/funcionario2/"
+            "vn00000_image": null,
+            "vn00000_name": "Funcionario 2",
+            "vn00000_office": "Responsável Financeiro",
+            "vn00000_phone": "00000000000",
+            "vn00000_email": "funcionario@mail.com",
+            "vn00000_linkedin": "https://www.linkedin.com/in/funcionario2/"
         },
 
         {
-            "image": null,
-            "name": "Funcionario 3",
-            "office": "Responsável Jurídico",
-            "phone": "00000000000",
-            "email": "funcionario@mail.com",
-            "linkedin": "https://www.linkedin.com/in/funcionario3/"
+            "vn00000_image": null,
+            "vn00000_name": "Funcionario 3",
+            "vn00000_office": "Responsável Jurídico",
+            "vn00000_phone": "00000000000",
+            "vn00000_email": "funcionario@mail.com",
+            "vn00000_linkedin": "https://www.linkedin.com/in/funcionario3/"
         }
     ],
 
@@ -2175,8 +2158,7 @@
 
     "consultations": {
         "cnpj": "03.237.583/0001-67",
-        "queriesBySegment": [
-            {
+        "queriesBySegment": [{
                 "month": "JAN/2019",
                 "banksFinance": 7,
                 "industry": 6,
@@ -2227,8 +2209,7 @@
                 "factorings": 5
             }
         ],
-        "latestConsultations": [
-            {
+        "latestConsultations": [{
                 "date": "Tue Feb 18 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
                 "cnpj": "04915946000139",
                 "companyName": "Atco servicos ltda",
@@ -2274,8 +2255,7 @@
             "previousRating": null,
             "currentRating": "A-"
         },
-        "relatedCompanies": [
-            {
+        "relatedCompanies": [{
                 "name": "FILATI IND. DE MALHAS S/A",
                 "cnpj": "08.823.011/0001-83",
                 "serasa": "Sat Feb 05 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
@@ -2308,132 +2288,128 @@
         ]
     },
 
-    "projection": {
-		"period": {
-			"from": "Thu Sep 22 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-			"to": "Thu Sep 22 2021 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
-		},
-		"data": [
-			{
-				"indicator": {
-					"type": "Receita",
-					"status": "success"
-				},
-				"info": "Lorem ipsum",
-				"var": {
-					"value": 15,
-					"status": "success"
-				},
-				"preview": "1º.Tri 2021",
-				"risk": "Médio",
-				"year_1": 730000,
-				"year_2": 757000,
-				"realization": {
-					"status": "success",
-					"estimate": 34,
-					"completed": 23
-				},
-				"date": "Tue May 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-				"content": {
-					"docs": [
-						{
-							"name": "BALANCO 2017-2019",
-							"link": "https://banners-victormarques.000webhostapp.com/pdf/BALANCO%202017-2019.pdf"
-						}
-					],
-					"actions": [
-						{
-							"value": 20,
-							"completed": true,
-							"description": "Eliminar desperdício de 8% de material no envasamento"
-						},
-						{
-							"value": 80,
-							"completed": false,
-							"description": "Reduzir em 30seg o tempo de envasamento"
-						}
-					]
-				}
-			},
-			{
-				"indicator": {
-					"type": "Custo op.",
-					"status": "danger"
-				},
-				"info": "Lorem ipsum",
-				"var": {
-					"value": 9,
-					"status": "danger"
-				},
-				"preview": "1º.Tri 2021",
-				"risk": "Alto",
-				"year_1": 450000,
-				"year_2": 423000,
-				"realization": {
-					"status": "danger",
-					"estimate": 34,
-					"completed": 12
-				},
-				"date": "Tue May 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-				"content": {
-					"docs": [
-						{
-							"name": "BALANCO 2017-2019",
-							"link": "https://banners-victormarques.000webhostapp.com/pdf/BALANCO%202017-2019.pdf"
-						}
-					],
-					"actions": [
-						{
-							"value": 20,
-							"completed": false,
-							"description": "Eliminar desperdício de 8% de material no envasamento"
-						},
-						{
-							"value": 80,
-							"completed": false,
-							"description": "Reduzir em 30seg o tempo de envasamento"
-						}
-					]
-				}
-			}
-		],
-		"requirements": "Necessidade da capital de giro de R$1.2milhão retornável em 24 PMTS iguais.",
-		"executiveView": "A Beauty Class é uma Distribuidora de Produtos para perfumaria e cosméticos em geral atendendo todo território nacional, e objetiva nestes período 2020-2021 ampliar sua atuação e faturamento através da formação de representantes especializados. Para poder apoiar esta ação de crescimento, investimentos em capital de giro (estoques, salários, marketing) e de obras de ampliação do nosso depósito de acabados serão necessárias. Em contra-partida aos custos, devemos automatizar parte da linha de embalagem e com isto reduzir custos fixos. Há grande determinação da Diretoria em aproveitar o momento para esta expansão de mercado.",
-		"responsible": {
-			"name": "Rodolfo Miguel",
-			"position": "Dir. Financeiro",
-			"video": { 
-                "channel": "youtube",
-                "id": "xcJtL7QggTI",
-			    "image": "https://www.sumus.com.br/wp-content/uploads/Diretor-Financeiro.jpg"
+    "vn00000_projection": {
+        "vn00000_period": {
+            "vn00000_from": "Thu Sep 22 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "vn00000_to": "Thu Sep 22 2021 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+        },
+        "vn00000_data": [
+            {
+                "vn00000_indicator": {
+                    "vn00000_type": "Receita",
+                    "vn00000_status": "success"
+                },
+                "vn00000_info": "Lorem ipsum",
+                "vn00000_var": {
+                    "vn00000_value": 15,
+                    "vn00000_status": "success"
+                },
+                "vn00000_preview": "1º.Tri 2021",
+                "vn00000_risk": "Médio",
+                "vn00000_year_1": 730000,
+                "vn00000_year_2": 757000,
+                "vn00000_realization": {
+                    "vn00000_status": "success",
+                    "vn00000_estimate": 34,
+                    "vn00000_completed": 23
+                },
+                "vn00000_date": "Tue May 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_content": {
+                    "vn00000_docs": [{
+                        "vn00000_name": "BALANCO 2017-2019",
+                        "vn00000_link": "https://banners-victormarques.000webhostapp.com/pdf/BALANCO%202017-2019.pdf"
+                    }],
+                    "vn00000_actions": [
+                        {
+                            "vn00000_value": 20,
+                            "vn00000_completed": true,
+                            "vn00000_description": "Eliminar desperdício de 8% de material no envasamento"
+                        },
+                        {
+                            "vn00000_value": 80,
+                            "vn00000_completed": false,
+                            "vn00000_description": "Reduzir em 30seg o tempo de envasamento"
+                        }
+                    ]
+                }
+            },
+            {
+                "vn00000_indicator": {
+                    "vn00000_type": "Custo op.",
+                    "vn00000_status": "danger"
+                },
+                "vn00000_info": "Lorem ipsum",
+                "vn00000_var": {
+                    "vn00000_value": 9,
+                    "vn00000_status": "danger"
+                },
+                "vn00000_preview": "1º.Tri 2021",
+                "vn00000_risk": "Alto",
+                "vn00000_year_1": 450000,
+                "vn00000_year_2": 423000,
+                "vn00000_realization": {
+                    "vn00000_status": "danger",
+                    "vn00000_estimate": 34,
+                    "vn00000_completed": 12
+                },
+                "vn00000_date": "Tue May 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "vn00000_content": {
+                    "vn00000_docs": [{
+                        "vn00000_name": "BALANCO 2017-2019",
+                        "vn00000_link": "https://banners-victormarques.000webhostapp.com/pdf/BALANCO%202017-2019.pdf"
+                    }],
+                    "vn00000_actions": [
+                        {
+                            "vn00000_value": 20,
+                            "vn00000_completed": false,
+                            "vn00000_description": "Eliminar desperdício de 8% de material no envasamento"
+                        },
+                        {
+                            "vn00000_value": 80,
+                            "vn00000_completed": false,
+                            "vn00000_description": "Reduzir em 30seg o tempo de envasamento"
+                        }
+                    ]
+                }
             }
-		},
-		"news": [
-			{
-				"title": "Notícia 1",
-				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
-				"link": "#link1"
-			},
-			{
-				"title": "Notícia 2",
-				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
-				"link": "#link2"
-			},
-			{
-				"title": "Notícia 3",
-				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
-				"link": "#link3"
-			},
-			{
-				"title": "Notícia 4",
-				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
-				"link": "#link4"
-			},
-			{
-				"title": "Notícia 5",
-				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
-				"link": "#link5"
-			}
-		]
-	}
+        ],
+        "vn00000_requirements": "Necessidade da capital de giro de R$1.2milhão retornável em 24 PMTS iguais.",
+        "vn00000_executiveView": "A Beauty Class é uma Distribuidora de Produtos para perfumaria e cosméticos em geral atendendo todo território nacional, e objetiva nestes período 2020-2021 ampliar sua atuação e faturamento através da formação de representantes especializados. Para poder apoiar esta ação de crescimento, investimentos em capital de giro (estoques, salários, marketing) e de obras de ampliação do nosso depósito de acabados serão necessárias. Em contra-partida aos custos, devemos automatizar parte da linha de embalagem e com isto reduzir custos fixos. Há grande determinação da Diretoria em aproveitar o momento para esta expansão de mercado.",
+        "vn00000_responsible": {
+            "vn00000_name": "Rodolfo Miguel",
+            "vn00000_position": "Dir. Financeiro",
+            "vn00000_video": {
+                "vn00000_channel": "youtube",
+                "vn00000_id": "xcJtL7QggTI",
+                "vn00000_image": "https://www.partnerscom.com.br/wp-content/uploads/2020/01/Erros-comuns-de-executivos-1.png"
+            }
+        },
+        "vn00000_news": [
+            {
+                "vn00000_title": "Notícia 1",
+                "vn00000_preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                "vn00000_link": "#link1"
+            },
+            {
+                "vn00000_title": "Notícia 2",
+                "vn00000_preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                "vn00000_link": "#link2"
+            },
+            {
+                "vn00000_title": "Notícia 3",
+                "vn00000_preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                "vn00000_link": "#link3"
+            },
+            {
+                "vn00000_title": "Notícia 4",
+                "vn00000_preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                "vn00000_link": "#link4"
+            },
+            {
+                "vn00000_title": "Notícia 5",
+                "vn00000_preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                "vn00000_link": "#link5"
+            }
+        ]
+    }
 }]
