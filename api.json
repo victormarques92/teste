@@ -1998,19 +1998,442 @@
         }
     },
 
-    "bankAccounts": {},
+    "bankAccounts": [
+        {
+            "type": "Regular",
+            "compe": 341,
+            "agency": "1478-2",
+            "currentAccount": "24771-9",
+            "opening": "Thu Sep 22 1996 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
+            "closure": null
+        },
+        {
+            "type": "Regular",
+            "compe": 237,
+            "agency": "0001-1",
+            "currentAccount": "1789934-0",
+            "opening": "Thu May 22 2001 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
+            "closure": null
+        },
+        {
+            "type": "Escrow",
+            "compe": 7897655,
+            "agency": "0001-0",
+            "currentAccount": "0005645-0",
+            "opening": "Thu Jan 11 2019 18:06:29 GMT-0300 (Horário Padrão de Brasília)",
+            "closure": null
+        }
+    ],
 
-    "clients": {},
+    "clients": [
+        {
+            "percentage": 32,
+            "client": {
+                "name": "COFAP SA",
+                "code": 12987155,
+                "filial": 2
+            },
+            "fat": "1.45",
+            "pmv": 42,
+            "aging": 5,
+            "segment": 27,
+            "trend": "success",
+            "rating": 4
+        }, {
+            "percentage": 14,
+            "client": {
+                "name": "BRASKEM SA",
+                "code": 34186440,
+                "filial": 1
+            },
+            "fat": "0.48",
+            "pmv": 39,
+            "aging": 0,
+            "segment": 24,
+            "trend": "danger",
+            "rating": 2
+        }
+    ],
 
-    "providers": {},
+    "providers": {
+        "mainSuppliers": [
+            {
+                "cnpj": "03.688.545/0001-20",
+                "companyName": "Digital work computer service comercial eireli"
+            },
+            {
+                "cnpj": "05.607.657/0001-35",
+                "companyName": "scansource brasil  distribuidora de tecnologias ltda"
+            },
+            {
+                "cnpj": "06.980.064/0001-82",
+                "companyName": "nacional gas butano distribuidora ltda"
+            },
+            {
+                "cnpj": "30.691.476/0001-87",
+                "companyName": "aea marginal tiete distribuidora de materiais eletronicos eire"
+            },
+            {
+                "cnpj": "75.487.058/0001-00",
+                "companyName": "arxo industrial do brasil s/a"
+            }
+        ],
+        "relationshipMarket": [
+			{
+				"role": "0 - 6 meses",
+				"value": 22
+			},
+			{
+				"role": "6 meses - 1 ano",
+				"value": 24
+			},
+			{
+				"role": "1 - 3 anos",
+				"value": 34
+			},
+			{
+				"role": "3 - 5 anos",
+				"value": 12
+			},
+			{
+				"role": "5 - 10 anos",
+				"value": 24
+			},
+			{
+				"role": "+ 10 anos",
+				"value": 54
+			},
+			{
+				"role": "Inativas",
+				"value": 7
+			}
+        ],
+        "relationshipFactorings": [
+            {
+                "role": "0 - 6 meses",
+                "value": 18
+            },
+            {
+                "role": "6 meses - 1 ano",
+                "value": 24
+            },
+            {
+                "role": "1 - 3 anos",
+                "value": 24
+            },
+            {
+                "role": "3 - 5 anos",
+                "value": 2
+            },
+            {
+                "role": "5 - 10 anos",
+                "value": 8
+            },
+            {
+                "role": "+ 10 anos",
+                "value": 8
+            },
+            {
+                "role": "Inativas",
+                "value": 2
+            }
+        ]
+    },
 
     "reputation": {},
 
-    "contacts": {},
+    "contacts": [
+        {
+            "image": "https://i.imgur.com/74sByqd.jpg",
+            "name": "Funcionario 1",
+            "office": "Diretor",
+            "phone": "00000000000",
+            "email": "funcionario@mail.com",
+            "linkedin": "https://www.linkedin.com/in/funcionario1/"
+        },
+
+        {
+            "image": null,
+            "name": "Funcionario 2",
+            "office": "Responsável Financeiro",
+            "phone": "00000000000",
+            "email": "funcionario@mail.com",
+            "linkedin": "https://www.linkedin.com/in/funcionario2/"
+        },
+
+        {
+            "image": null,
+            "name": "Funcionario 3",
+            "office": "Responsável Jurídico",
+            "phone": "00000000000",
+            "email": "funcionario@mail.com",
+            "linkedin": "https://www.linkedin.com/in/funcionario3/"
+        }
+    ],
 
     "segment": {},
 
-    "relationships": {},
+    "consultations": {
+        "cnpj": "03.237.583/0001-67",
+        "queriesBySegment": [
+            {
+                "month": "JAN/2019",
+                "banksFinance": 7,
+                "industry": 6,
+                "trade": 25,
+                "services": 12,
+                "others": 0,
+                "total": 50,
+                "factorings": 6
+            },
+            {
+                "month": "FEV/2019",
+                "banksFinance": 5,
+                "industry": 7,
+                "trade": 22,
+                "services": 19,
+                "others": 0,
+                "total": 53,
+                "factorings": 8
+            },
+            {
+                "month": "MAR/2019",
+                "banksFinance": 5,
+                "industry": 13,
+                "trade": 24,
+                "services": 24,
+                "others": 1,
+                "total": 67,
+                "factorings": 6
+            },
+            {
+                "month": "ABR/2019",
+                "banksFinance": 8,
+                "industry": 5,
+                "trade": 19,
+                "services": 22,
+                "others": 0,
+                "total": 54,
+                "factorings": 4
+            },
+            {
+                "month": "MAI/2019",
+                "banksFinance": 7,
+                "industry": 9,
+                "trade": 25,
+                "services": 25,
+                "others": 0,
+                "total": 66,
+                "factorings": 5
+            }
+        ],
+        "latestConsultations": [
+            {
+                "date": "Tue Feb 18 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "cnpj": "04915946000139",
+                "companyName": "Atco servicos ltda",
+                "qtd": 1
+            },
+            {
+                "date": "Mon Feb 03 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "cnpj": "02430706000119",
+                "companyName": "Hope fomento mercantil ltda",
+                "qtd": 1
+            },
+            {
+                "date": "Tue Jan 28 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "cnpj": "66618653000147",
+                "companyName": "Daniele banco domento comercial e participacoes ltda",
+                "qtd": 1
+            },
+            {
+                "date": "Thu Jan 16 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "cnpj": "64359136000175",
+                "companyName": "VDL fomento mercantil ltda",
+                "qtd": 1
+            },
+            {
+                "date": "Thu Jan 09 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "cnpj": "66618653000147",
+                "companyName": "Daniele banco domento comercial e participacoes ltda",
+                "qtd": 1
+            }
+        ]
+    },
 
-    "okrs": {}
+    "relationships": {
+        "dataClient": {
+            "name": "TBM TEXTIL BEZERRA DE MENEZES S/A",
+            "cnpj": "07.671.092/0001-80",
+            "state": "Fortaleza - CE",
+            "created": "Sat Jun 01 1974 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "group": "TBM",
+            "activity": "Ind. Têxtil",
+            "shareCapital": 163769000,
+            "responsible": "Rafael",
+            "previousRating": null,
+            "currentRating": "A-"
+        },
+        "relatedCompanies": [
+            {
+                "name": "FILATI IND. DE MALHAS S/A",
+                "cnpj": "08.823.011/0001-83",
+                "serasa": "Sat Feb 05 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "value": 0
+            },
+            {
+                "name": "TBM PAR INVEST. E PARTIC. S/A",
+                "cnpj": "04.165.211/0001-35",
+                "serasa": "Sat Feb 11 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "value": 0
+            },
+            {
+                "name": "TBM LOG SERVIÇOS DE ARMAZEN GERAL LTDA",
+                "cnpj": "33.866.465/0001-89",
+                "serasa": "Sat Feb 11 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "value": 0
+            },
+            {
+                "name": "TBM TEXTIL IND. E COM. S/A",
+                "cnpj": "05.435.483/0001-70",
+                "serasa": "Sat Feb 05 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "value": 396918
+            },
+            {
+                "name": "TBM S.A. INDÚSTRIA TÊXTIL",
+                "cnpj": "07.603.376/0001-30",
+                "serasa": "Sat Feb 11 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+                "value": 0
+            }
+        ]
+    },
+
+    "projection": {
+		"period": {
+			"from": "Thu Sep 22 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+			"to": "Thu Sep 22 2021 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+		},
+		"data": [
+			{
+				"indicator": {
+					"type": "Receita",
+					"status": "success"
+				},
+				"info": "Lorem ipsum",
+				"var": {
+					"value": 15,
+					"status": "success"
+				},
+				"preview": "1º.Tri 2021",
+				"risk": "Médio",
+				"year_1": 730000,
+				"year_2": 757000,
+				"realization": {
+					"status": "success",
+					"estimate": 34,
+					"completed": 23
+				},
+				"date": "Tue May 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+				"content": {
+					"docs": [
+						{
+							"name": "BALANCO 2017-2019",
+							"link": "https://banners-victormarques.000webhostapp.com/pdf/BALANCO%202017-2019.pdf"
+						}
+					],
+					"actions": [
+						{
+							"value": 20,
+							"completed": true,
+							"description": "Eliminar desperdício de 8% de material no envasamento"
+						},
+						{
+							"value": 80,
+							"completed": false,
+							"description": "Reduzir em 30seg o tempo de envasamento"
+						}
+					]
+				}
+			},
+			{
+				"indicator": {
+					"type": "Custo op.",
+					"status": "danger"
+				},
+				"info": "Lorem ipsum",
+				"var": {
+					"value": 9,
+					"status": "danger"
+				},
+				"preview": "1º.Tri 2021",
+				"risk": "Alto",
+				"year_1": 450000,
+				"year_2": 423000,
+				"realization": {
+					"status": "danger",
+					"estimate": 34,
+					"completed": 12
+				},
+				"date": "Tue May 26 2020 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+				"content": {
+					"docs": [
+						{
+							"name": "BALANCO 2017-2019",
+							"link": "https://banners-victormarques.000webhostapp.com/pdf/BALANCO%202017-2019.pdf"
+						}
+					],
+					"actions": [
+						{
+							"value": 20,
+							"completed": false,
+							"description": "Eliminar desperdício de 8% de material no envasamento"
+						},
+						{
+							"value": 80,
+							"completed": false,
+							"description": "Reduzir em 30seg o tempo de envasamento"
+						}
+					]
+				}
+			}
+		],
+		"requirements": "Necessidade da capital de giro de R$1.2milhão retornável em 24 PMTS iguais.",
+		"executiveView": "A Beauty Class é uma Distribuidora de Produtos para perfumaria e cosméticos em geral atendendo todo território nacional, e objetiva nestes período 2020-2021 ampliar sua atuação e faturamento através da formação de representantes especializados. Para poder apoiar esta ação de crescimento, investimentos em capital de giro (estoques, salários, marketing) e de obras de ampliação do nosso depósito de acabados serão necessárias. Em contra-partida aos custos, devemos automatizar parte da linha de embalagem e com isto reduzir custos fixos. Há grande determinação da Diretoria em aproveitar o momento para esta expansão de mercado.",
+		"responsible": {
+			"name": "Rodolfo Miguel",
+			"position": "Dir. Financeiro",
+			"video": { 
+                "channel": "youtube",
+                "id": "xcJtL7QggTI",
+			    "image": "https://www.sumus.com.br/wp-content/uploads/Diretor-Financeiro.jpg"
+            }
+		},
+		"news": [
+			{
+				"title": "Notícia 1",
+				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+				"link": "#link1"
+			},
+			{
+				"title": "Notícia 2",
+				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+				"link": "#link2"
+			},
+			{
+				"title": "Notícia 3",
+				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+				"link": "#link3"
+			},
+			{
+				"title": "Notícia 4",
+				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+				"link": "#link4"
+			},
+			{
+				"title": "Notícia 5",
+				"preview": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+				"link": "#link5"
+			}
+		]
+	}
 }]
