@@ -1,66 +1,64 @@
 {
-    date: {
-        start: "04/08/20",
-        end: "04/08/20",
+    "date": {
+        "start": "04/08/20",
+        "end": "04/08/20"
     },
-    custodian: "Socopa",
-    manager: [
+    "custodian": "Socopa",
+    "manager": [
         {
-            name: "Tercon",
-            fund: [
+            "name": "Tercon",
+            "fund": [
                 {
-                    name: "Atlanta Fundo Direitos Creditórios",
-                    criticalValue: "56.956,00",
-                    alertValue: "5.000,00",
-                    data: [
+                    "name": "Atlanta Fundo Direitos Creditórios",
+                    "criticalValue": "56.956,00",
+                    "alertValue": "5.000,00",
+                    "data": [
                         {
-                            assignor: "FEMSA SA",
-                            cnpj: "02.331.670/0001-87",
-                            assignmentNumber: "341551",
-                            oc: "+",
-                            issuanceDate: "03/08/20",
-                            inconsistenciesStatus: "danger",
-                            inconsistenciesDescription:
-                                "CNPJ Cedente diverge da Nota",
-                            drawerCompany: "Carrefour SA",
-                            drawerCnpj: "16.088.541/0001-90",
-                            codNrId: "BYT6D82F",
-                            codNrIncrement: "20",
-                            billingTitleValue: "13.416,00",
-                            billingTitleDueDate: "11/10/20",
-                            co: "N",
-                            repurchase: "N",
-                            notification: "N",
-                        },
-                    ],
+                            "assignor": "FEMSA SA",
+                            "cnpj": "02.331.670/0001-87",
+                            "assignmentNumber": "341551",
+                            "oc": "+",
+                            "issuanceDate": "03/08/20",
+                            "inconsistenciesStatus": "danger",
+                            "inconsistenciesDescription": "CNPJ Cedente diverge da Nota",
+                            "drawerCompany": "Carrefour SA",
+                            "drawerCnpj": "16.088.541/0001-90",
+                            "codNrId": "BYT6D82F",
+                            "codNrIncrement": "20",
+                            "billingTitleValue": "13.416,00",
+                            "billingTitleDueDate": "11/10/20",
+                            "co": "N",
+                            "repurchase": "N",
+                            "notification": "N"
+                        }
+                    ]
                 },
                 {
-                    name: "Lorem ipsum dolor",
-                    criticalValue: "56.956,00",
-                    alertValue: "5.000,00",
-                    data: [
+                    "name": "lorem ipsum dolor",
+                    "criticalValue": "56.956,00",
+                    "alertValue": "5.000,00",
+                    "data": [
                         {
-                            assignor: "FEMSA SA",
-                            cnpj: "02.331.670/0001-87",
-                            assignmentNumber: "341551",
-                            oc: "+",
-                            issuanceDate: "03/08/20",
-                            inconsistenciesStatus: "danger",
-                            inconsistenciesDescription:
-                                "CNPJ Cedente diverge da Nota",
-                            drawerCompany: "Carrefour SA",
-                            drawerCnpj: "16.088.541/0001-90",
-                            codNrId: "BYT6D82F",
-                            codNrIncrement: "20",
-                            billingTitleValue: "13.416,00",
-                            billingTitleDueDate: "11/10/20",
-                            co: "N",
-                            repurchase: "N",
-                            notification: "N",
-                        },
-                    ],
-                },
-            ],
-        },
-    ],
-};
+                            "assignor": "FEMSA SA",
+                            "cnpj": "02.331.670/0001-87",
+                            "assignmentNumber": "341551",
+                            "oc": "+",
+                            "issuanceDate": "03/08/20",
+                            "inconsistenciesStatus": "danger",
+                            "inconsistenciesDescription": "CNPJ Cedente diverge da Nota",
+                            "drawerCompany": "Carrefour SA",
+                            "drawerCnpj": "16.088.541/0001-90",
+                            "codNrId": "BYT6D82F",
+                            "codNrIncrement": "20",
+                            "billingTitleValue": "13.416,00",
+                            "billingTitleDueDate": "11/10/20",
+                            "co": "N",
+                            "repurchase": "N",
+                            "notification": "N"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
